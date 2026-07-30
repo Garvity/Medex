@@ -1,0 +1,6 @@
+[
+  {"query": "symptoms of diabetes", "expected_type": "disease", "expected_entities": ["diabetes"]},
+  {"query": "side effects of aspirin", "expected_type": "drug", "expected_entities": ["aspirin"]},
+  {"query": "nutrition in rice", "expected_type": "nutrition", "expected_entities": ["rice"]},
+  {"query": "covid prevention", "expected_type": "guideline", "expected_entities": ["covid"]}
+]

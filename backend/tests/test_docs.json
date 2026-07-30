@@ -1,0 +1,26 @@
+[
+  {
+    "type": "disease",
+    "name": "Gestational Cholestasis",
+    "section": "symptoms",
+    "text": "Itchy skin, particularly on the hands and feet"
+  },
+  {
+    "type": "drug",
+    "name": "Oxycodone Hydrochloride",
+    "section": "side_effects",
+    "text": "Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either, 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90-day period (n=978); or 2) filled any Schedule II opioid analgesic prescriptions covering at least 70 of 90 days (n=1,244). Those included also had no dispensing of the qualifying opioids in the previous 6 months."
+  },
+  {
+    "type": "nutrition",
+    "name": "Pea curry (Matar ki sabzi)",
+    "section": "nutrition",
+    "text": "Pea curry (Matar ki sabzi) contains 102.99 kcal energy, 9.2 g carbohydrates, 4.51 g protein, 5.11 g fat, 4.44 g fiber, 24.48 mg calcium."
+  },
+  {
+    "type": "guideline",
+    "name": "COVID-19 Prevention",
+    "section": "prevention",
+    "text": "Maintain good hygiene, wear masks in crowded places, stay home if sick and keep vaccinations up to date."
+  }
+]
