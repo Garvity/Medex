@@ -1,0 +1,166 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* ── DARK (default) ── */
+  :root, .dark {
+    --background: 225 25% 4%;
+    --foreground: 160 15% 95%;
+    --primary: 162 72% 42%;
+    --primary-foreground: 160 20% 98%;
+    --secondary: 199 65% 48%;
+    --secondary-foreground: 200 20% 98%;
+    --muted: 220 12% 16%;
+    --muted-foreground: 210 10% 52%;
+    --accent: 162 50% 22%;
+    --accent-foreground: 160 20% 95%;
+    --card: 225 18% 7%;
+    --card-foreground: 160 15% 92%;
+    --border: 220 12% 14%;
+    --ring: 162 72% 42%;
+    --danger: 0 72% 55%;
+    --particle-r: 16;
+    --particle-g: 185;
+    --particle-b: 129;
+  }
+
+  /* ── LIGHT — warm medical whites + teal accent ── */
+  .light {
+    --background: 180 10% 97%;
+    --foreground: 220 25% 12%;
+    --primary: 165 65% 32%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 205 60% 42%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 200 12% 90%;
+    --muted-foreground: 210 10% 42%;
+    --accent: 165 40% 88%;
+    --accent-foreground: 165 65% 20%;
+    --card: 0 0% 100%;
+    --card-foreground: 220 20% 15%;
+    --border: 200 15% 88%;
+    --ring: 165 65% 32%;
+    --danger: 0 72% 50%;
+    --particle-r: 14;
+    --particle-g: 140;
+    --particle-b: 100;
+  }
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: hsl(var(--background));
+  color: hsl(var(--foreground));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+  transition: background 0.5s ease, color 0.4s ease;
+}
+
+::selection {
+  background: hsl(var(--primary) / 0.3);
+}
+
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: hsl(var(--muted)); border-radius: 3px; }
+
+@layer utilities {
+  .glass {
+    background: hsl(var(--card) / 0.6);
+    backdrop-filter: blur(20px);
+    border: 1px solid hsl(var(--border));
+    transition: background 0.4s ease, border-color 0.4s ease;
+  }
+  .glass-strong {
+    background: hsl(var(--card) / 0.85);
+    backdrop-filter: blur(30px);
+    border: 1px solid hsl(var(--border));
+    transition: background 0.4s ease, border-color 0.4s ease;
+  }
+  .glow-primary {
+    box-shadow: 0 0 20px hsl(var(--primary) / 0.15), 0 0 60px hsl(var(--primary) / 0.05);
+  }
+  .glow-input {
+    box-shadow: 0 0 0 3px hsl(var(--primary) / 0.15), 0 0 20px hsl(var(--primary) / 0.1);
+  }
+  .text-gradient {
+    background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--secondary)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .glow-neon {
+    box-shadow: 0 0 15px hsl(162 72% 42% / 0.3), 0 0 30px hsl(162 72% 42% / 0.1);
+  }
+  .glow-neon-strong {
+    box-shadow: 0 0 25px hsl(162 72% 42% / 0.5), 0 0 50px hsl(162 72% 42% / 0.2);
+  }
+  .border-neon {
+    border-color: hsl(162 72% 42% / 0.5) !important;
+  }
+  .text-neon {
+    color: hsl(162 72% 42%) !important;
+    text-shadow: 0 0 8px hsl(162 72% 42% / 0.5);
+  }
+}
+
+.markdown-content p {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+}
+.markdown-content p:last-child {
+  margin-bottom: 0;
+}
+.markdown-content ul {
+  list-style-type: disc;
+  margin-left: 1.25rem;
+  margin-bottom: 0.75rem;
+  display: block;
+}
+.markdown-content ol {
+  list-style-type: decimal;
+  margin-left: 1.25rem;
+  margin-bottom: 0.75rem;
+  display: block;
+}
+.markdown-content li {
+  margin-bottom: 0.25rem;
+  line-height: 1.5;
+  display: list-item;
+}
+.markdown-content h1, 
+.markdown-content h2, 
+.markdown-content h3 {
+  font-weight: 700;
+  color: hsl(var(--foreground));
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+.markdown-content h1 { font-size: 1.25rem; }
+.markdown-content h2 { font-size: 1.1rem; }
+.markdown-content h3 { font-size: 1.05rem; }
+.markdown-content strong {
+  font-weight: 700;
+  color: hsl(var(--primary));
+}
+.markdown-content code {
+  background: hsl(var(--muted));
+  padding: 0.125rem 0.25rem;
+  border-radius: 0.25rem;
+  font-family: monospace;
+  font-size: 0.85em;
+}
