@@ -1,0 +1,32 @@
+# API and configuration
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+pydantic==2.11.7
+pydantic-settings==2.10.1
+python-dotenv==1.1.1
+
+# Agentic RAG and model gateway
+langchain==0.3.27
+langchain-core==0.3.72
+langchain-openai==0.3.28
+langgraph==0.6.5
+nemoguardrails==0.23.0
+httpx==0.28.1
+
+# Hybrid retrieval
+qdrant-client==1.14.2
+fastembed==0.7.1
+flashrank==0.2.10
+
+# Identity, persistence, and observability
+firebase-admin==6.9.0
+SQLAlchemy==2.0.43
+asyncpg==0.30.0
+alembic==1.16.4
+logfire[fastapi,httpx]==4.3.1
+
+# Data preparation and evaluation
+numpy==2.2.6
+pandas==2.3.2
+requests==2.32.5
+pytest==8.4.1
