@@ -200,6 +200,11 @@ python tests/evaluation.py
 - SMTP credentials and scheduler trigger tokens are environment-only secrets.
 - The retrieval pipeline uses guardrails and source-grounding, but output still requires clinical judgement.
 
-## License
+---
 
-No license has been specified for this repository.
+<div align="center">
+
+&copy; 2026 **Garv R Changrani**. All rights reserved.<br>
+*Engineered for scalable, intelligent multi-agent orchestration.*
+
+</div>
