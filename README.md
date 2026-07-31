@@ -1,4 +1,4 @@
-# MedAssist AI
+# Medex - MedAssist AI 
 
 > A full-stack, safety-oriented medical information assistant that combines grounded retrieval, agentic orchestration, authenticated patient context, and reliable medication reminders.
 
