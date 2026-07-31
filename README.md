@@ -46,6 +46,7 @@ flowchart LR
 - Grounded medical answers from a curated corpus rather than unbounded model recall.
 - Dense Jina retrieval plus BM25 sparse retrieval in Qdrant, followed by FlashRank reranking.
 - LangGraph state machine for guard, retrieve, rerank, generate, and tool-routing stages.
+- Portkey fallback routing between separately configured Groq virtual keys when the primary provider fails.
 - Firebase-verified API access; PostgreSQL owns profiles, conversations, reminders, and delivery audit history.
 - Timezone-aware reminders with idempotent occurrences, row locking, retry backoff, and Gmail SMTP delivery.
 - Evaluation utilities for Recall@k, MRR, nDCG, and Top-1 retrieval accuracy.
@@ -99,7 +100,7 @@ cp backend/.env.example backend/.env
 cp frontend/.env.example frontend/.env
 ```
 
-Important backend values include Firebase Admin credentials, `JINA_API_KEY`, `PORTKEY_API_KEY`, `GROQ_API_KEY`, and the `SMTP_*` Gmail App Password settings. Never commit these values.
+Important backend values include Firebase Admin credentials, `JINA_API_KEY`, `PORTKEY_API_KEY`, the Portkey virtual-key references (`PORTKEY_PRIMARY_VIRTUAL_KEY` and `PORTKEY_FALLBACK_VIRTUAL_KEY`), and the `SMTP_*` Gmail App Password settings. Configure both Portkey virtual keys with separate Groq credentials before enabling fallback. Never commit these values.
 
 ### 3. Start local data services and install dependencies
 

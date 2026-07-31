@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from pathlib import Path
 
+from agent.portkey import portkey_headers
 from core.config import get_settings
 
 
@@ -40,15 +41,12 @@ class MedicalGuardrails:
 
                 config_path = Path(__file__).resolve().parent.parent / "rails"
                 config = RailsConfig.from_path(str(config_path))
-                if self.settings.portkey_api_key and self.settings.groq_api_key:
+                if self.settings.portkey_api_key:
                     config.models[0]["parameters"].update(
                         {
                             "api_key": self.settings.portkey_api_key,
                             "api_base": "https://api.portkey.ai/v1",
-                            "default_headers": {
-                                "x-portkey-provider": "@rag",
-                                # "x-portkey-provider-api-key": self.settings.groq_api_key,
-                            },
+                            "default_headers": portkey_headers(self.settings),
                         }
                     )
                 self._nemo_rails = LLMRails(config)
