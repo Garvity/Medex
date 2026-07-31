@@ -1,0 +1,4856 @@
+[
+  {
+    "type": "disease",
+    "name": "Gestational Cholestasis",
+    "section": "symptoms",
+    "text": "Itchy skin, particularly on the hands and feet"
+  },
+  {
+    "type": "disease",
+    "name": "Injury to Internal Organ",
+    "section": "symptoms",
+    "text": "Abdominal pain, bleeding, organ dysfunction"
+  },
+  {
+    "type": "disease",
+    "name": "Injury to Internal Organ",
+    "section": "treatment",
+    "text": "Immediate medical attention, diagnostic tests, surgery (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Scabies",
+    "section": "symptoms",
+    "text": "Intense itching, especially at night, small blisters or bumps"
+  },
+  {
+    "type": "disease",
+    "name": "Scabies",
+    "section": "treatment",
+    "text": "Prescription medications (topical or oral scabicides), washing clothes and bedding in hot water, vacuuming and cleaning home"
+  },
+  {
+    "type": "disease",
+    "name": "Congenital Glaucoma",
+    "section": "symptoms",
+    "text": "Cloudy or hazy eyes, excessive tearing, sensitivity to light"
+  },
+  {
+    "type": "disease",
+    "name": "Congenital Glaucoma",
+    "section": "treatment",
+    "text": "Surgery (e.g., trabeculotomy, goniotomy) to create a new drainage pathway, medications to reduce intraocular pressure"
+  },
+  {
+    "type": "disease",
+    "name": "Avoidant/Restrictive Food Intake Disorder (ARFID)",
+    "section": "symptoms",
+    "text": "Avoidance or restriction of certain foods or entire food groups, significant weight loss or failure to gain weight"
+  },
+  {
+    "type": "disease",
+    "name": "Avoidant/Restrictive Food Intake Disorder (ARFID)",
+    "section": "treatment",
+    "text": "Nutritional counseling, psychotherapy (such as cognitive-behavioral therapy or family-based therapy), medical monitoring, exposure therapy, occupational therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Subdural hemorrhage",
+    "section": "symptoms",
+    "text": "Headache, confusion, dizziness, nausea or vomiting, seizures, weakness or numbness"
+  },
+  {
+    "type": "disease",
+    "name": "Subdural hemorrhage",
+    "section": "treatment",
+    "text": "Immediate medical attention, close monitoring of vital signs and neurological status, diagnostic imaging (such as CT or MRI scan), potential surgical intervention (such as craniotomy or burr hole evacuation), medication to manage symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Poisoning due to Antidepressants",
+    "section": "symptoms",
+    "text": "Nausea, vomiting, drowsiness, dizziness, confusion, seizures, changes in heart rate, low blood pressure, respiratory distress"
+  },
+  {
+    "type": "disease",
+    "name": "Poisoning due to Antidepressants",
+    "section": "treatment",
+    "text": "Seek immediate medical assistance or contact a poison control center, activated charcoal (if indicated), supportive care (maintaining vital signs, airway management), gastric lavage (in certain cases), administration of antidotes (if available and appropriate), monitoring and management of complications"
+  },
+  {
+    "type": "disease",
+    "name": "Mittelschmerz",
+    "section": "symptoms",
+    "text": "Lower abdominal pain and discomfort occurring around the time of ovulation"
+  },
+  {
+    "type": "disease",
+    "name": "Mittelschmerz",
+    "section": "treatment",
+    "text": "Pain management (over-the-counter pain relievers, heat therapy), hormonal birth control (if severe or recurrent)"
+  },
+  {
+    "type": "disease",
+    "name": "Cornea Infection",
+    "section": "symptoms",
+    "text": "Eye redness, pain or discomfort, blurred or decreased vision, increased sensitivity to light"
+  },
+  {
+    "type": "disease",
+    "name": "Cornea Infection",
+    "section": "treatment",
+    "text": "Antibiotic or antifungal eye drops, oral medications, supportive care, possible corneal transplant (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Myopia",
+    "section": "symptoms",
+    "text": "Blurred distance vision, eyestrain, squinting"
+  },
+  {
+    "type": "disease",
+    "name": "Myopia",
+    "section": "treatment",
+    "text": "Eyeglasses, contact lenses, refractive surgery (LASIK), orthokeratology (for some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Abscess of the Lung",
+    "section": "symptoms",
+    "text": "Cough with phlegm or pus, chest pain, fever, shortness of breath, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Abscess of the Lung",
+    "section": "treatment",
+    "text": "Antibiotics, drainage or surgical removal of the abscess, supportive care, management of underlying lung conditions"
+  },
+  {
+    "type": "disease",
+    "name": "Congenital rubella",
+    "section": "symptoms",
+    "text": "Developmental delays, intellectual disability, hearing loss, vision problems, heart defects, liver or spleen enlargement, rash at birth"
+  },
+  {
+    "type": "disease",
+    "name": "Congenital rubella",
+    "section": "treatment",
+    "text": "Supportive care to manage symptoms and complications, early intervention services for developmental delays, educational support, vision and hearing interventions, specialized medical care as needed"
+  },
+  {
+    "type": "disease",
+    "name": "Intertrigo",
+    "section": "symptoms",
+    "text": "Red, raw, or inflamed skin in skin folds (such as armpits or groin), itching or burning sensation"
+  },
+  {
+    "type": "disease",
+    "name": "Intertrigo",
+    "section": "treatment",
+    "text": "Keeping the affected area clean and dry, applying topical antifungal or antibacterial creams, using barrier creams"
+  },
+  {
+    "type": "disease",
+    "name": "Insect Bites",
+    "section": "symptoms",
+    "text": "Red, swollen, itchy bumps"
+  },
+  {
+    "type": "disease",
+    "name": "Insect Bites",
+    "section": "treatment",
+    "text": "Topical corticosteroids, oral antihistamines, cold compresses"
+  },
+  {
+    "type": "disease",
+    "name": "Complex Regional Pain Syndrome",
+    "section": "symptoms",
+    "text": "Severe and chronic pain, often in the limbs, with associated swelling, changes in skin color or temperature, abnormal sweating, limited range of motion"
+  },
+  {
+    "type": "disease",
+    "name": "Complex Regional Pain Syndrome",
+    "section": "treatment",
+    "text": "Physical therapy (including exercises, stretching, and mirror therapy), pain management techniques (such as medications, nerve blocks, or spinal cord stimulation), sympathetic nerve blocks, psychological support (such as cognitive-behavioral therapy or counseling), occupational therapy, graded motor imagery, transcutaneous electrical nerve stimulation (TENS), patient education and self-management techniques"
+  },
+  {
+    "type": "disease",
+    "name": "Anxiety",
+    "section": "symptoms",
+    "text": "Excessive worrying, restlessness, increased heart rate, panic attacks"
+  },
+  {
+    "type": "disease",
+    "name": "Anxiety",
+    "section": "treatment",
+    "text": "Therapy (cognitive-behavioral therapy, psychotherapy), medications (antidepressants, anti-anxiety drugs)"
+  },
+  {
+    "type": "disease",
+    "name": "Gastroesophageal Reflux Disease (GERD)",
+    "section": "symptoms",
+    "text": "Heartburn, acid reflux, chest pain"
+  },
+  {
+    "type": "disease",
+    "name": "Gastroesophageal Reflux Disease (GERD)",
+    "section": "treatment",
+    "text": "Lifestyle changes, medications (antacids, proton pump inhibitors)"
+  },
+  {
+    "type": "disease",
+    "name": "Crushing Injury",
+    "section": "symptoms",
+    "text": "Severe pain, swelling, deformity, bruising, difficulty moving or using the affected area"
+  },
+  {
+    "type": "disease",
+    "name": "Crushing Injury",
+    "section": "treatment",
+    "text": "Emergency medical attention, immobilization, pain management, surgery (to repair or reconstruct affected tissues), rehabilitation (physical therapy, occupational therapy)"
+  },
+  {
+    "type": "disease",
+    "name": "Cellulitis",
+    "section": "symptoms",
+    "text": "Redness, Pain, tenderness, Swelling, Skin changes, Lymph node enlargement"
+  },
+  {
+    "type": "disease",
+    "name": "Cellulitis",
+    "section": "treatment",
+    "text": "Antibiotics, Warm compresses, immobilization, rest, Pain management"
+  },
+  {
+    "type": "disease",
+    "name": "Anal Fissure",
+    "section": "symptoms",
+    "text": "Pain during bowel movements, rectal bleeding"
+  },
+  {
+    "type": "disease",
+    "name": "Anal Fissure",
+    "section": "treatment",
+    "text": "Stool softeners, fiber supplements, topical ointments, surgical procedures (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Neuropathic Pain",
+    "section": "symptoms",
+    "text": "Shooting or burning pain, tingling or numbness"
+  },
+  {
+    "type": "disease",
+    "name": "Neuropathic Pain",
+    "section": "treatment",
+    "text": "Medications (such as antidepressants, anticonvulsants, topical treatments), nerve blocks, spinal cord stimulation, physical therapy, occupational therapy, transcutaneous electrical nerve stimulation (TENS), acupuncture, cognitive-behavioral therapy, relaxation techniques"
+  },
+  {
+    "type": "disease",
+    "name": "Common Cold",
+    "section": "symptoms",
+    "text": "cough, sore throat, runny nose, sneezing"
+  },
+  {
+    "type": "disease",
+    "name": "Common Cold",
+    "section": "treatment",
+    "text": "rest, fluids, over-the-counter medication"
+  },
+  {
+    "type": "disease",
+    "name": "Food Allergy",
+    "section": "symptoms",
+    "text": "Rash, itching, swelling, difficulty breathing, gastrointestinal symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Food Allergy",
+    "section": "treatment",
+    "text": "Avoidance of allergenic food, antihistamines, epinephrine (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Pulmonary Fibrosis",
+    "section": "symptoms",
+    "text": "Shortness of breath, dry cough, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Pulmonary Fibrosis",
+    "section": "treatment",
+    "text": "Medications (immunosuppressants, antifibrotic drugs), oxygen therapy, lung transplantation"
+  },
+  {
+    "type": "disease",
+    "name": "Hyperosmotic Hyperketotic State",
+    "section": "symptoms",
+    "text": "Increased blood sugar levels, increased ketone production, excessive thirst, frequent urination, fatigue, confusion, fruity breath odor"
+  },
+  {
+    "type": "disease",
+    "name": "Hyperosmotic Hyperketotic State",
+    "section": "treatment",
+    "text": "Insulin therapy to regulate blood sugar levels, intravenous fluids to correct dehydration, electrolyte replacement, correction of underlying causes (e.g., diabetes management)"
+  },
+  {
+    "type": "disease",
+    "name": "Overflow Incontinence",
+    "section": "symptoms",
+    "text": "Frequent or constant dribbling of urine, inability to completely empty the bladder, weak urine stream"
+  },
+  {
+    "type": "disease",
+    "name": "Overflow Incontinence",
+    "section": "treatment",
+    "text": "Bladder training exercises, double voiding, catheterization, medications (alpha-blockers, anticholinergics), surgery (in severe cases), lifestyle modifications"
+  },
+  {
+    "type": "disease",
+    "name": "Abdominal Injury",
+    "section": "symptoms",
+    "text": "Abdominal pain, tenderness, bruising, swelling, difficulty breathing, nausea, vomiting, changes in bowel movements, blood in urine or stool"
+  },
+  {
+    "type": "disease",
+    "name": "Abdominal Injury",
+    "section": "treatment",
+    "text": "Immediate medical attention, X-ray, CT scan, ultrasound, stabilization of vital signs, pain management, observation for signs of internal bleeding, potential surgical intervention, wound care"
+  },
+  {
+    "type": "disease",
+    "name": "Hirsutism",
+    "section": "symptoms",
+    "text": "Excessive hair growth in women"
+  },
+  {
+    "type": "disease",
+    "name": "Hirsutism",
+    "section": "treatment",
+    "text": "Medications (anti-androgens, oral contraceptives), hair removal methods, lifestyle changes"
+  },
+  {
+    "type": "disease",
+    "name": "Neuralgia",
+    "section": "symptoms",
+    "text": "Sharp, shooting pain along the affected nerve"
+  },
+  {
+    "type": "disease",
+    "name": "Neuralgia",
+    "section": "treatment",
+    "text": "Medications (pain relievers, anticonvulsants), nerve blocks"
+  },
+  {
+    "type": "disease",
+    "name": "Warthin tumor",
+    "section": "symptoms",
+    "text": "Painless lump or swelling, Facial changes"
+  },
+  {
+    "type": "disease",
+    "name": "Warthin tumor",
+    "section": "treatment",
+    "text": "Surgical excision"
+  },
+  {
+    "type": "disease",
+    "name": "Presbycusis",
+    "section": "symptoms",
+    "text": "Gradual hearing loss, difficulty hearing high-pitched sounds, speech sounds muffled or unclear"
+  },
+  {
+    "type": "disease",
+    "name": "Presbycusis",
+    "section": "treatment",
+    "text": "Hearing aids, assistive listening devices, cochlear implants (in severe cases), communication strategies, counseling, regular hearing evaluations"
+  },
+  {
+    "type": "disease",
+    "name": "Opioid Use Disorder",
+    "section": "symptoms",
+    "text": "Compulsive use of opioids, strong desire or cravings for opioids, inability to control or reduce opioid use, withdrawal symptoms (such as nausea, muscle aches, anxiety) when attempting to stop or reduce use, tolerance to opioids, continued use despite negative consequences (such as legal issues, health problems)"
+  },
+  {
+    "type": "disease",
+    "name": "Opioid Use Disorder",
+    "section": "treatment",
+    "text": "Medication-assisted treatment (such as methadone, buprenorphine, naltrexone), counseling or therapy (such as cognitive-behavioral therapy, contingency management), support groups (such as Narcotics Anonymous), harm reduction strategies, addressing underlying psychological or social factors, lifestyle changes, ongoing monitoring and support"
+  },
+  {
+    "type": "disease",
+    "name": "Panic disorder",
+    "section": "symptoms",
+    "text": "Palpitations, Sweating, Trembling, Shortness of breath, Fear of losing control, Dizziness"
+  },
+  {
+    "type": "disease",
+    "name": "Panic disorder",
+    "section": "treatment",
+    "text": "Antidepressant medications, Cognitive Behavioral Therapy, Relaxation Techniques"
+  },
+  {
+    "type": "disease",
+    "name": "Esophageal Cancer",
+    "section": "symptoms",
+    "text": "Difficulty swallowing, unintentional weight loss, chest pain, hoarseness"
+  },
+  {
+    "type": "disease",
+    "name": "Esophageal Cancer",
+    "section": "treatment",
+    "text": "Surgery, chemotherapy, radiation therapy, targeted therapy, immunotherapy, palliative care, clinical trials"
+  },
+  {
+    "type": "disease",
+    "name": "Alcohol Intoxication",
+    "section": "symptoms",
+    "text": "Slurred speech, impaired coordination, confusion"
+  },
+  {
+    "type": "disease",
+    "name": "Alcohol Intoxication",
+    "section": "treatment",
+    "text": "Supportive care, ensuring hydration, monitoring vital signs, prevention of complications"
+  },
+  {
+    "type": "disease",
+    "name": "Pilonidal Cyst",
+    "section": "symptoms",
+    "text": "Pain or discomfort in the tailbone area, swelling, redness, drainage of pus or blood, abscess formation"
+  },
+  {
+    "type": "disease",
+    "name": "Pilonidal Cyst",
+    "section": "treatment",
+    "text": "Warm compresses, pain management, antibiotics (for infection), incision and drainage, surgical removal or excision, wound care, lifestyle modifications to prevent recurrence"
+  },
+  {
+    "type": "disease",
+    "name": "Gestational Diabetes",
+    "section": "symptoms",
+    "text": "High blood sugar levels during pregnancy"
+  },
+  {
+    "type": "disease",
+    "name": "Gestational Diabetes",
+    "section": "treatment",
+    "text": "Blood sugar monitoring, healthy diet modifications, regular exercise, insulin injections (if needed), close monitoring by healthcare provider"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Withdrawal",
+    "section": "symptoms",
+    "text": "Anxiety, restlessness, irritability, tremors, sweating, nausea, vomiting, insomnia, drug cravings"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Withdrawal",
+    "section": "treatment",
+    "text": "Gradual tapering of the drug under medical supervision, medications to manage withdrawal symptoms (such as benzodiazepines, clonidine, or buprenorphine), behavioral therapy, support groups, counseling, rehabilitation programs"
+  },
+  {
+    "type": "disease",
+    "name": "Fetal Alcohol Syndrome",
+    "section": "symptoms",
+    "text": "Growth deficiencies, facial abnormalities, developmental delays, intellectual disability"
+  },
+  {
+    "type": "disease",
+    "name": "Fetal Alcohol Syndrome",
+    "section": "treatment",
+    "text": "Early intervention services for developmental delays, educational support, speech and occupational therapy, behavioral interventions, medical management of associated health issues"
+  },
+  {
+    "type": "disease",
+    "name": "Polycythemia Vera",
+    "section": "symptoms",
+    "text": "Increased red blood cell count, fatigue, headache, dizziness, itching, enlarged spleen"
+  },
+  {
+    "type": "disease",
+    "name": "Polycythemia Vera",
+    "section": "treatment",
+    "text": "Phlebotomy (removal of blood), medication (hydroxyurea, interferon), low-dose aspirin, managing complications (blood thinners, medication for itching)"
+  },
+  {
+    "type": "disease",
+    "name": "Osteoarthritis",
+    "section": "symptoms",
+    "text": "Joint pain, stiffness, swelling"
+  },
+  {
+    "type": "disease",
+    "name": "Osteoarthritis",
+    "section": "treatment",
+    "text": "Pain relievers, physical therapy, weight management, assistive devices, surgery (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Neck",
+    "section": "symptoms",
+    "text": "Severe neck pain, swelling, tenderness, difficulty moving or turning the head, numbness or weakness in the arms or legs"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Neck",
+    "section": "treatment",
+    "text": "Immobilization (cervical collar, brace), pain management, potential surgical intervention (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Myoclonus",
+    "section": "symptoms",
+    "text": "Sudden, brief muscle contractions or jerks, often affecting the arms, legs, or face"
+  },
+  {
+    "type": "disease",
+    "name": "Myoclonus",
+    "section": "treatment",
+    "text": "Identifying and treating underlying causes (e.g., medication adjustments, metabolic imbalances), medications (anti-seizure drugs, tranquilizers), physical therapy, supportive care"
+  },
+  {
+    "type": "disease",
+    "name": "Foreign Body in the Gastrointestinal Tract",
+    "section": "symptoms",
+    "text": "Abdominal pain or discomfort, difficulty swallowing, choking or gagging, drooling, nausea or vomiting, loss of appetite, chest pain or pressure, respiratory distress, coughing or wheezing, gastrointestinal bleeding, bowel obstruction, perforation of the digestive tract"
+  },
+  {
+    "type": "disease",
+    "name": "Foreign Body in the Gastrointestinal Tract",
+    "section": "treatment",
+    "text": "Observation and monitoring (for small, smooth, and non-sharp objects that are likely to pass through the digestive tract without complications), endoscopic removal (using a flexible tube with a camera to locate and remove the foreign body), surgical intervention (in cases of severe complications, large or sharp objects, or failed endoscopic removal attempts), supportive care (such as intravenous fluids, pain management, and antibiotics if infection is present), imaging studies (such as X-rays or CT scans) to evaluate the location and extent of the foreign body, consultation with a gastroenterologist or surgeon for appropriate management"
+  },
+  {
+    "type": "disease",
+    "name": "Coronary Atherosclerosis",
+    "section": "symptoms",
+    "text": "Chest pain or discomfort (angina), shortness of breath, fatigue, irregular heartbeat, dizziness, nausea, sweating, jaw or arm pain (in some cases), heart attack (when a coronary artery becomes completely blocked)"
+  },
+  {
+    "type": "disease",
+    "name": "Coronary Atherosclerosis",
+    "section": "treatment",
+    "text": "Lifestyle changes (such as a heart-healthy diet, regular exercise, weight management, smoking cessation), medication (such as aspirin, cholesterol-lowering medications, beta-blockers, calcium channel blockers, nitroglycerin), procedures (such as angioplasty and stenting, coronary artery bypass grafting), cardiac rehabilitation, management of other risk factors (such as high blood pressure, diabetes)"
+  },
+  {
+    "type": "disease",
+    "name": "Hypertensive Heart Disease",
+    "section": "symptoms",
+    "text": "High blood pressure, chest pain or discomfort, shortness of breath, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Hypertensive Heart Disease",
+    "section": "treatment",
+    "text": "Medications (antihypertensives), lifestyle changes (healthy diet, exercise, stress management), treatment of underlying conditions"
+  },
+  {
+    "type": "disease",
+    "name": "Mumps",
+    "section": "symptoms",
+    "text": "Swollen salivary glands (usually parotid), fever, headache, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Mumps",
+    "section": "treatment",
+    "text": "Supportive care, pain relievers, isolation, vaccination (MMR)"
+  },
+  {
+    "type": "disease",
+    "name": "Cholesteatoma",
+    "section": "symptoms",
+    "text": "Ear pain, hearing loss, ear drainage, dizziness or vertigo, tinnitus"
+  },
+  {
+    "type": "disease",
+    "name": "Cholesteatoma",
+    "section": "treatment",
+    "text": "Surgical removal, antibiotics (for associated infections)"
+  },
+  {
+    "type": "disease",
+    "name": "Polycystic Kidney Disease",
+    "section": "symptoms",
+    "text": "Abdominal pain, high blood pressure, kidney cysts"
+  },
+  {
+    "type": "disease",
+    "name": "Polycystic Kidney Disease",
+    "section": "treatment",
+    "text": "Symptom management, blood pressure control, dialysis"
+  },
+  {
+    "type": "disease",
+    "name": "Juvenile Rheumatoid Arthritis",
+    "section": "symptoms",
+    "text": "Joint pain, swelling, stiffness, limited range of motion, fever, rash"
+  },
+  {
+    "type": "disease",
+    "name": "Juvenile Rheumatoid Arthritis",
+    "section": "treatment",
+    "text": "Medications (NSAIDs, DMARDs), physical therapy, occupational therapy, exercise, assistive devices"
+  },
+  {
+    "type": "disease",
+    "name": "Hypospadias",
+    "section": "symptoms",
+    "text": "Abnormal positioning of the urethral opening on the underside of the penis, penile curvature, spraying of urine, difficulty in urination"
+  },
+  {
+    "type": "disease",
+    "name": "Hypospadias",
+    "section": "treatment",
+    "text": "Surgical repair (hypospadias repair surgery), hormone therapy (in some cases), counseling and support for the child and family"
+  },
+  {
+    "type": "disease",
+    "name": "Parotid stones",
+    "section": "symptoms",
+    "text": "Swelling, pain, dry mouth, bad taste"
+  },
+  {
+    "type": "disease",
+    "name": "Parotid stones",
+    "section": "treatment",
+    "text": "Hydration,Saliva stimulation, Stone removal"
+  },
+  {
+    "type": "disease",
+    "name": "Achalasia",
+    "section": "symptoms",
+    "text": "Difficulty swallowing"
+  },
+  {
+    "type": "disease",
+    "name": "Achalasia",
+    "section": "treatment",
+    "text": "Balloon dilation, surgery, medication"
+  },
+  {
+    "type": "disease",
+    "name": "Rumination Disorder",
+    "section": "symptoms",
+    "text": "Repeated regurgitation and re-chewing of food"
+  },
+  {
+    "type": "disease",
+    "name": "Rumination Disorder",
+    "section": "treatment",
+    "text": "Behavioral therapy (such as diaphragmatic breathing techniques), biofeedback, addressing any underlying psychological or medical conditions, dietary modifications"
+  },
+  {
+    "type": "disease",
+    "name": "Bronchitis",
+    "section": "symptoms",
+    "text": "Persistent cough with yellow or green mucus, chest congestion, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Bronchitis",
+    "section": "treatment",
+    "text": "Rest, fluids, over-the-counter cough suppressants, inhalers (if prescribed), treating underlying cause"
+  },
+  {
+    "type": "disease",
+    "name": "Balanitis",
+    "section": "symptoms",
+    "text": "Inflammation of the glans penis (tip of the penis), redness, swelling, pain"
+  },
+  {
+    "type": "disease",
+    "name": "Balanitis",
+    "section": "treatment",
+    "text": "Good hygiene, topical antifungal or antibacterial creams, corticosteroid creams (if severe), treating underlying causes"
+  },
+  {
+    "type": "disease",
+    "name": "Ectopic Pregnancy",
+    "section": "symptoms",
+    "text": "Vaginal bleeding, abdominal pain or cramping, shoulder pain (if the fallopian tube ruptures)"
+  },
+  {
+    "type": "disease",
+    "name": "Ectopic Pregnancy",
+    "section": "treatment",
+    "text": "Immediate medical attention, potential medical procedures (such as medication or surgery to remove the ectopic pregnancy), close monitoring, emotional support"
+  },
+  {
+    "type": "disease",
+    "name": "Atelectasis",
+    "section": "symptoms",
+    "text": "Difficulty breathing, rapid breathing, chest pain"
+  },
+  {
+    "type": "disease",
+    "name": "Atelectasis",
+    "section": "treatment",
+    "text": "Treatment of the underlying cause (such as removal of airway obstruction, treatment of lung infection), deep breathing exercises, coughing techniques, incentive spirometry, chest physiotherapy, bronchodilator medications, supplemental oxygen therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Anorexia Nervosa",
+    "section": "symptoms",
+    "text": "Extreme weight loss, fear of gaining weight, distorted body image"
+  },
+  {
+    "type": "disease",
+    "name": "Anorexia Nervosa",
+    "section": "treatment",
+    "text": "Medical monitoring, nutritional counseling, psychotherapy (such as cognitive-behavioral therapy or family-based therapy), medications (in some cases), hospitalization (for severe cases), support groups"
+  },
+  {
+    "type": "disease",
+    "name": "Hypergammaglobulinemia",
+    "section": "symptoms",
+    "text": "Elevated levels of gamma globulins in the blood, may be asymptomatic or associated with other underlying conditions"
+  },
+  {
+    "type": "disease",
+    "name": "Hypergammaglobulinemia",
+    "section": "treatment",
+    "text": "Treatment of underlying cause or associated condition, immunosuppressive therapy (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Pregnancy-Induced Hypertension",
+    "section": "symptoms",
+    "text": "High blood pressure during pregnancy"
+  },
+  {
+    "type": "disease",
+    "name": "Pregnancy-Induced Hypertension",
+    "section": "treatment",
+    "text": "Monitoring blood pressure, lifestyle modifications (such as salt restriction, regular exercise), medication (such as antihypertensive drugs) if necessary, close monitoring by healthcare provider"
+  },
+  {
+    "type": "disease",
+    "name": "Chorioretinitis",
+    "section": "symptoms",
+    "text": "Eye pain, blurred vision, sensitivity to light"
+  },
+  {
+    "type": "disease",
+    "name": "Chorioretinitis",
+    "section": "treatment",
+    "text": "Antiviral medications, corticosteroids, eye drops"
+  },
+  {
+    "type": "disease",
+    "name": "Open-Angle Glaucoma",
+    "section": "symptoms",
+    "text": "Gradual loss of peripheral vision, tunnel vision"
+  },
+  {
+    "type": "disease",
+    "name": "Open-Angle Glaucoma",
+    "section": "treatment",
+    "text": "Eye drops to lower intraocular pressure (e.g., prostaglandin analogs, beta blockers, alpha agonists, carbonic anhydrase inhibitors), oral medications (e.g., carbonic anhydrase inhibitors), laser trabeculoplasty, surgical procedures (e.g., trabeculectomy, glaucoma drainage implants)"
+  },
+  {
+    "type": "disease",
+    "name": "Cranial Nerve Palsy",
+    "section": "symptoms",
+    "text": "Depends on the specific cranial nerve involved; symptoms can include vision changes, eye movement abnormalities, facial weakness or paralysis, difficulty swallowing or speaking, loss of sensation in the face or other areas"
+  },
+  {
+    "type": "disease",
+    "name": "Cranial Nerve Palsy",
+    "section": "treatment",
+    "text": "Treatment depends on the underlying cause and specific cranial nerve affected. It may include medications (such as corticosteroids or antiviral drugs), physical therapy, speech therapy, occupational therapy, eye exercises, surgery (in some cases), and management of any underlying conditions."
+  },
+  {
+    "type": "disease",
+    "name": "Corneal Abrasion",
+    "section": "symptoms",
+    "text": "Eye pain, redness, foreign body sensation, sensitivity to light"
+  },
+  {
+    "type": "disease",
+    "name": "Corneal Abrasion",
+    "section": "treatment",
+    "text": "Eye patching, lubricating eye drops, antibiotic ointments (if infected), avoiding further eye irritation"
+  },
+  {
+    "type": "disease",
+    "name": "Hiatal Hernia",
+    "section": "symptoms",
+    "text": "Heartburn, chest pain, difficulty swallowing"
+  },
+  {
+    "type": "disease",
+    "name": "Hiatal Hernia",
+    "section": "treatment",
+    "text": "Lifestyle changes, medications (antacids, proton pump inhibitors)"
+  },
+  {
+    "type": "disease",
+    "name": "Type 2 Diabetes",
+    "section": "symptoms",
+    "text": "increased thirst, frequent urination, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Type 2 Diabetes",
+    "section": "treatment",
+    "text": "insulin, medication, lifestyle change"
+  },
+  {
+    "type": "disease",
+    "name": "Uterine Fibroids",
+    "section": "symptoms",
+    "text": "Heavy or prolonged menstrual periods, pelvic pain or pressure, frequent urination, difficulty emptying the bladder, constipation, backache, leg pain, enlarged abdomen or uterus, infertility or recurrent miscarriages (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Uterine Fibroids",
+    "section": "treatment",
+    "text": "Watchful waiting (for small or asymptomatic fibroids), medication (such as hormonal birth control, GnRH agonists, progestin-releasing intrauterine devices), minimally invasive procedures (such as uterine artery embolization, myomectomy), hysteroscopic procedures (such as hysteroscopic myomectomy or endometrial ablation), surgical removal of fibroids (such as laparoscopic or robotic-assisted myomectomy, hysterectomy), focused ultrasound ablation, hormonal therapy, alternative approaches (such as acupuncture or herbal remedies)"
+  },
+  {
+    "type": "disease",
+    "name": "Angle-Closure Glaucoma",
+    "section": "symptoms",
+    "text": "Severe eye pain, headache, blurred vision, halos around lights, nausea and vomiting"
+  },
+  {
+    "type": "disease",
+    "name": "Angle-Closure Glaucoma",
+    "section": "treatment",
+    "text": "Medications (e.g., oral or intravenous acetazolamide, topical beta blockers, alpha agonists, prostaglandin analogs), laser peripheral iridotomy, surgical procedures (e.g., trabeculectomy, glaucoma drainage implants)"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Headache",
+    "section": "symptoms",
+    "text": "Persistent head pain, tension in neck and shoulders"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Headache",
+    "section": "treatment",
+    "text": "Pain-relieving medications, relaxation techniques, stress management"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Kidney Injury",
+    "section": "symptoms",
+    "text": "Decreased urine output, fluid retention, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Kidney Injury",
+    "section": "treatment",
+    "text": "Treating underlying cause, supportive care, medications to manage complications, dialysis (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Scarlet Fever",
+    "section": "symptoms",
+    "text": "Sore throat, fever, rash (red, sandpaper-like), swollen glands"
+  },
+  {
+    "type": "disease",
+    "name": "Scarlet Fever",
+    "section": "treatment",
+    "text": "Antibiotics (such as penicillin or erythromycin), rest, fluids, symptomatic relief"
+  },
+  {
+    "type": "disease",
+    "name": "Thoracic Aortic Aneurysm",
+    "section": "symptoms",
+    "text": "Chest or back pain, shortness of breath, hoarseness, difficulty swallowing"
+  },
+  {
+    "type": "disease",
+    "name": "Thoracic Aortic Aneurysm",
+    "section": "treatment",
+    "text": "Regular monitoring and imaging tests to assess aneurysm size and growth, lifestyle modifications (e.g., blood pressure control, avoiding smoking, managing cholesterol levels), medication (e.g., beta-blockers, ACE inhibitors) to manage blood pressure and reduce the risk of rupture, surgical intervention"
+  },
+  {
+    "type": "disease",
+    "name": "Scleroderma",
+    "section": "symptoms",
+    "text": "Thickening of the skin, Raynaud's phenomenon"
+  },
+  {
+    "type": "disease",
+    "name": "Scleroderma",
+    "section": "treatment",
+    "text": "Medications (immunosuppressants), therapy, symptom management"
+  },
+  {
+    "type": "disease",
+    "name": "Bone Spur of the Calcaneus",
+    "section": "symptoms",
+    "text": "Heel pain, especially when walking or standing, tenderness, swelling, inflammation of the surrounding tissue"
+  },
+  {
+    "type": "disease",
+    "name": "Bone Spur of the Calcaneus",
+    "section": "treatment",
+    "text": "Nonsteroidal anti-inflammatory drugs (NSAIDs), orthotic devices, physical therapy, stretching exercises, shoe modifications, corticosteroid injections, surgical removal (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Ethylene glycol poisoning-2",
+    "section": "symptoms",
+    "text": "Metabolic acidosis, apid breathing, rapid heart rate, confusion, headache, dizziness, seizures"
+  },
+  {
+    "type": "disease",
+    "name": "Ethylene glycol poisoning-2",
+    "section": "treatment",
+    "text": "Blood tests, Supportive Measures, Gastric Decontamination, Antidote Administration, Hemodialysis"
+  },
+  {
+    "type": "disease",
+    "name": "Pica",
+    "section": "symptoms",
+    "text": "Persistent consumption of non-food substances"
+  },
+  {
+    "type": "disease",
+    "name": "Pica",
+    "section": "treatment",
+    "text": "Behavioral therapy, addressing underlying nutritional deficiencies, addressing any medical complications, family support"
+  },
+  {
+    "type": "disease",
+    "name": "Induced Abortion",
+    "section": "symptoms",
+    "text": "Vaginal bleeding, cramping, abdominal pain, nausea, fatigue, emotional distress"
+  },
+  {
+    "type": "disease",
+    "name": "Induced Abortion",
+    "section": "treatment",
+    "text": "Medical Abortion: Medication (such as mifepristone and misoprostol) is used to induce abortion, which can be done in the early stages of pregnancy. Surgical Abortion: A healthcare professional performs a procedure to remove the pregnancy, which can involve suction aspiration or dilation and curettage (D&C). It's important to consult with a healthcare professional to discuss the options and determine the most suitable method."
+  },
+  {
+    "type": "disease",
+    "name": "Tension Headache",
+    "section": "symptoms",
+    "text": "Mild to moderate head pain, tightness or pressure sensation on both sides of head"
+  },
+  {
+    "type": "disease",
+    "name": "Tension Headache",
+    "section": "treatment",
+    "text": "Over-the-counter pain relievers, relaxation techniques, stress management"
+  },
+  {
+    "type": "disease",
+    "name": "Tuberculosis",
+    "section": "symptoms",
+    "text": "cough, weight loss, fever, night sweats"
+  },
+  {
+    "type": "disease",
+    "name": "Tuberculosis",
+    "section": "treatment",
+    "text": "antibiotics, long-term medication"
+  },
+  {
+    "type": "disease",
+    "name": "Urethral Valves",
+    "section": "symptoms",
+    "text": "Difficulty or poor urinary stream, urinary tract infections, urinary frequency or urgency, abdominal distension, poor weight gain"
+  },
+  {
+    "type": "disease",
+    "name": "Urethral Valves",
+    "section": "treatment",
+    "text": "Surgical intervention (valve ablation or resection), catheterization, medications for symptoms and complications"
+  },
+  {
+    "type": "disease",
+    "name": "Hashimoto Thyroiditis",
+    "section": "symptoms",
+    "text": "Fatigue, weight gain, constipation, dry skin, depression, muscle aches and stiffness, sensitivity to cold"
+  },
+  {
+    "type": "disease",
+    "name": "Hashimoto Thyroiditis",
+    "section": "treatment",
+    "text": "Thyroid hormone replacement (levothyroxine), monitoring and management of symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Parkinson Disease",
+    "section": "symptoms",
+    "text": "Tremors, stiffness, slowness of movement"
+  },
+  {
+    "type": "disease",
+    "name": "Parkinson Disease",
+    "section": "treatment",
+    "text": "Medications (levodopa, dopamine agonists), physical therapy, deep brain stimulation"
+  },
+  {
+    "type": "disease",
+    "name": "Cryptorchidism",
+    "section": "symptoms",
+    "text": "Absence or undescended testicle(s), empty scrotum, smaller or underdeveloped testicle(s), inguinal hernia, abnormal positioning of the testicle(s) (higher in the groin area)"
+  },
+  {
+    "type": "disease",
+    "name": "Cryptorchidism",
+    "section": "treatment",
+    "text": "Observation and monitoring (in cases of mild or transient cryptorchidism), hormone therapy (to stimulate testicular descent), surgical intervention (orchiopexy) to reposition the testicle(s) into the scrotum, if necessary, performed around the age of 6 to 12 months, open or laparoscopic surgery (in cases of high or persistent cryptorchidism), testicular prostheses (in cases of absent or non-functional testicles), regular follow-up visits with a urologist or pediatric surgeon"
+  },
+  {
+    "type": "disease",
+    "name": "Mucocele",
+    "section": "symptoms",
+    "text": "Painless fluid-filled swelling in the oral cavity"
+  },
+  {
+    "type": "disease",
+    "name": "Mucocele",
+    "section": "treatment",
+    "text": "Observation, Surgical removal if necessary"
+  },
+  {
+    "type": "disease",
+    "name": "Empyema",
+    "section": "symptoms",
+    "text": "Fever, chest pain, productive cough with foul-smelling or bloody sputum"
+  },
+  {
+    "type": "disease",
+    "name": "Empyema",
+    "section": "treatment",
+    "text": "Antibiotics, drainage (chest tube insertion, thoracentesis), surgical intervention (decortication), supportive care, treatment of underlying cause"
+  },
+  {
+    "type": "disease",
+    "name": "Abdominal Hernia",
+    "section": "symptoms",
+    "text": "Visible bulge or swelling, discomfort or pain"
+  },
+  {
+    "type": "disease",
+    "name": "Abdominal Hernia",
+    "section": "treatment",
+    "text": "Watchful waiting, hernia truss, surgical repair, lifestyle changes"
+  },
+  {
+    "type": "disease",
+    "name": "Hemarthrosis",
+    "section": "symptoms",
+    "text": "Joint swelling, pain, warmth, limited range of motion"
+  },
+  {
+    "type": "disease",
+    "name": "Hemarthrosis",
+    "section": "treatment",
+    "text": "RICE method (Rest, Ice, Compression, Elevation), pain management, joint aspiration or drainage (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Pregnancy-Related Back Pain",
+    "section": "symptoms",
+    "text": "Lower back pain, discomfort in the pelvic area"
+  },
+  {
+    "type": "disease",
+    "name": "Pregnancy-Related Back Pain",
+    "section": "treatment",
+    "text": "Prenatal exercises (such as stretching and strengthening exercises), good posture, heat or cold therapy, prenatal massages, supportive devices (such as pregnancy belts), physical therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Muscle Spasm",
+    "section": "symptoms",
+    "text": "Sudden, involuntary muscle contractions, muscle pain, stiffness, limited range of motion"
+  },
+  {
+    "type": "disease",
+    "name": "Muscle Spasm",
+    "section": "treatment",
+    "text": "Stretching and relaxation exercises, heat or cold therapy, over-the-counter pain relievers, muscle relaxants, physical therapy, lifestyle modifications"
+  },
+  {
+    "type": "disease",
+    "name": "Diverticulosis",
+    "section": "symptoms",
+    "text": "Abdominal pain, bloating, changes in bowel movements"
+  },
+  {
+    "type": "disease",
+    "name": "Diverticulosis",
+    "section": "treatment",
+    "text": "High-fiber diet, medications (pain relievers, antibiotics)"
+  },
+  {
+    "type": "disease",
+    "name": "Dry Skin",
+    "section": "symptoms",
+    "text": "Dry, flaky skin with itching"
+  },
+  {
+    "type": "disease",
+    "name": "Dry Skin",
+    "section": "treatment",
+    "text": "Moisturizing creams or lotions, avoiding hot showers or baths, using mild soaps"
+  },
+  {
+    "type": "disease",
+    "name": "Alcohol Use Disorder",
+    "section": "symptoms",
+    "text": "Cravings for alcohol, inability to control or limit alcohol consumption, withdrawal symptoms (such as tremors, anxiety, sweating) when attempting to stop or reduce alcohol use, continued use despite negative consequences (such as relationship problems, health issues), neglecting responsibilities, tolerance to alcohol"
+  },
+  {
+    "type": "disease",
+    "name": "Alcohol Use Disorder",
+    "section": "treatment",
+    "text": "Detoxification (if necessary), counseling or therapy (such as cognitive-behavioral therapy, motivational interviewing), support groups (such as Alcoholics Anonymous), medication (such as disulfiram, naltrexone, acamprosate), addressing underlying psychological or social factors, lifestyle changes, ongoing monitoring and support"
+  },
+  {
+    "type": "disease",
+    "name": "Muscular Dystrophy",
+    "section": "symptoms",
+    "text": "Progressive muscle weakness and degeneration, difficulty walking or moving, muscle wasting"
+  },
+  {
+    "type": "disease",
+    "name": "Muscular Dystrophy",
+    "section": "treatment",
+    "text": "Supportive care, physical therapy, assistive devices, medications for symptom management, gene therapies (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Vaginal Yeast Infection",
+    "section": "symptoms",
+    "text": "Itching and irritation in the vagina and vulva, redness and swelling of the vulva, white, thick, clumpy vaginal discharge (resembling cottage cheese), burning sensation during urination, pain during sexual intercourse, rash or soreness in the affected area"
+  },
+  {
+    "type": "disease",
+    "name": "Vaginal Yeast Infection",
+    "section": "treatment",
+    "text": "Over-the-counter antifungal creams, ointments, or suppositories (such as miconazole, clotrimazole, or terconazole), prescription-strength antifungal medications (in severe or recurrent cases), oral antifungal medications (if recommended by a healthcare professional), topical corticosteroids (for relief of itching and inflammation), maintaining good hygiene practices, avoiding irritants (such as scented products), wearing breathable cotton underwear, avoiding tight-fitting clothing, probiotics (to restore healthy vaginal flora)"
+  },
+  {
+    "type": "disease",
+    "name": "Osteoporosis",
+    "section": "symptoms",
+    "text": "Fragile bones, loss of height over time, back pain, fractures"
+  },
+  {
+    "type": "disease",
+    "name": "Osteoporosis",
+    "section": "treatment",
+    "text": "Calcium and vitamin D supplements, regular exercise, medications to slow bone loss"
+  },
+  {
+    "type": "disease",
+    "name": "Syndrome of Inappropriate Secretion of ADH (SIADH)",
+    "section": "symptoms",
+    "text": "Excessively concentrated urine, low blood sodium levels"
+  },
+  {
+    "type": "disease",
+    "name": "Syndrome of Inappropriate Secretion of ADH (SIADH)",
+    "section": "treatment",
+    "text": "Treating underlying cause, fluid restriction, medications to suppress ADH (vasopressin) secretion, addressing electrolyte imbalance"
+  },
+  {
+    "type": "disease",
+    "name": "Myasthenia Gravis",
+    "section": "symptoms",
+    "text": "Muscle weakness, fatigue, difficulty speaking"
+  },
+  {
+    "type": "disease",
+    "name": "Myasthenia Gravis",
+    "section": "treatment",
+    "text": "Medications (acetylcholinesterase inhibitors, immunosuppressants), thymectomy (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Torticollis",
+    "section": "symptoms",
+    "text": "Neck pain, stiffness, and abnormal head positioning"
+  },
+  {
+    "type": "disease",
+    "name": "Torticollis",
+    "section": "treatment",
+    "text": "Physical therapy exercises, pain relievers, botulinum toxin injections (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Complex Regional Pain Syndrome (CRPS)",
+    "section": "symptoms",
+    "text": "Intense burning pain, swelling, changes in skin temperature"
+  },
+  {
+    "type": "disease",
+    "name": "Complex Regional Pain Syndrome (CRPS)",
+    "section": "treatment",
+    "text": "Physical therapy, medications, nerve blocks"
+  },
+  {
+    "type": "disease",
+    "name": "Gastroenteritis (Stomach Flu)",
+    "section": "symptoms",
+    "text": "Nausea, vomiting, diarrhea, abdominal pain or cramps, fever"
+  },
+  {
+    "type": "disease",
+    "name": "Gastroenteritis (Stomach Flu)",
+    "section": "treatment",
+    "text": "Rest, fluids (electrolyte solutions), bland diet, avoiding irritating foods, over-the-counter medications for symptom relief"
+  },
+  {
+    "type": "disease",
+    "name": "Scleritis",
+    "section": "symptoms",
+    "text": "Eye redness, severe eye pain, blurred vision"
+  },
+  {
+    "type": "disease",
+    "name": "Scleritis",
+    "section": "treatment",
+    "text": "Steroid eye drops, nonsteroidal anti-inflammatory drugs (NSAIDs), immunosuppressants"
+  },
+  {
+    "type": "disease",
+    "name": "Cirrhosis",
+    "section": "symptoms",
+    "text": "Fatigue, jaundice, abdominal swelling (ascites), easy bruising and bleeding, confusion, loss of appetite, weight loss"
+  },
+  {
+    "type": "disease",
+    "name": "Cirrhosis",
+    "section": "treatment",
+    "text": "Treatment aims to manage symptoms, slow down disease progression, and address underlying causes. It may include: lifestyle modifications (e.g., avoiding alcohol, maintaining a healthy diet), medication (e.g., diuretics, lactulose, antiviral drugs), procedures (e.g., paracentesis, transjugular intrahepatic portosystemic shunt), liver transplantation (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Lung Contusion",
+    "section": "symptoms",
+    "text": "Chest pain (sharp or dull), difficulty breathing or shortness of breath, rapid or shallow breathing, coughing up blood or pink-tinged sputum, decreased oxygen levels, wheezing, cyanosis (bluish discoloration of the skin), chest wall bruising, rib fractures (associated injuries)"
+  },
+  {
+    "type": "disease",
+    "name": "Lung Contusion",
+    "section": "treatment",
+    "text": "Supportive care (including supplemental oxygen, pain management, and respiratory support), monitoring in a hospital setting (to assess lung function and overall stability), treatment of associated injuries (such as rib fractures), management of complications (such as pneumonia or respiratory failure), prevention of further complications (such as deep vein thrombosis or pressure ulcers), respiratory therapy (including breathing exercises and airway clearance techniques), possible use of mechanical ventilation in severe cases"
+  },
+  {
+    "type": "disease",
+    "name": "Corneal Disorder",
+    "section": "symptoms",
+    "text": "Blurred or hazy vision, eye pain or discomfort, redness or irritation of the eye, excessive tearing, sensitivity to light (photophobia), foreign body sensation, dryness or excessive tearing, corneal abrasions or ulcers, distorted or irregular corneal shape, vision loss"
+  },
+  {
+    "type": "disease",
+    "name": "Corneal Disorder",
+    "section": "treatment",
+    "text": "Treatment depends on the specific corneal disorder and may include: artificial tears or lubricating eye drops, antibiotic or antifungal eye drops (if infection is present), corticosteroid eye drops or ointments (to reduce inflammation), bandage contact lenses, therapeutic contact lenses, corneal transplantation (in severe cases), refractive surgeries (such as LASIK or PRK) to correct vision, protective eyewear or sunglasses, avoiding irritants or triggers, regular eye examinations and monitoring, lifestyle modifications (such as proper eye hygiene and avoiding eye strain)"
+  },
+  {
+    "type": "disease",
+    "name": "Mucoepidermoid carcinoma",
+    "section": "symptoms",
+    "text": "Lump, swelling, Difficulty, pain when swallowing and speaking, Facial weakness, Facial paralysis "
+  },
+  {
+    "type": "disease",
+    "name": "Mucoepidermoid carcinoma",
+    "section": "treatment",
+    "text": "Surgery, Radiation therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Carpal Tunnel Syndrome",
+    "section": "symptoms",
+    "text": "Tingling, numbness, and pain in the hand and fingers"
+  },
+  {
+    "type": "disease",
+    "name": "Carpal Tunnel Syndrome",
+    "section": "treatment",
+    "text": "Wrist splints, avoiding repetitive hand movements, applying cold or hot compresses, gentle exercises, ergonomic adjustments"
+  },
+  {
+    "type": "disease",
+    "name": "Macular Degeneration",
+    "section": "symptoms",
+    "text": "Blurred or distorted central vision, blind spots"
+  },
+  {
+    "type": "disease",
+    "name": "Macular Degeneration",
+    "section": "treatment",
+    "text": "Vision aids, medications (injections into the eye), laser therapy, photodynamic therapy, surgical intervention"
+  },
+  {
+    "type": "disease",
+    "name": "Atrophic vaginitis",
+    "section": "symptoms",
+    "text": "Vaginal dryness, Vaginal burning, frequent urination, urinary tract infections, Painful intercourse"
+  },
+  {
+    "type": "disease",
+    "name": "Atrophic vaginitis",
+    "section": "treatment",
+    "text": "Vaginal moisturizers, Vaginal estrogen therapy, Lifestyle modifications"
+  },
+  {
+    "type": "disease",
+    "name": "Osteochondrosis",
+    "section": "symptoms",
+    "text": "Joint pain, stiffness, swelling, reduced range of motion"
+  },
+  {
+    "type": "disease",
+    "name": "Osteochondrosis",
+    "section": "treatment",
+    "text": "Physical therapy, pain medications, rest, surgery"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)",
+    "section": "symptoms",
+    "text": "Weakness, numbness, tingling in limbs"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)",
+    "section": "treatment",
+    "text": "Immunoglobulin therapy, corticosteroids, physical therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Parasitic Infections",
+    "section": "symptoms",
+    "text": "Intense itching, visible lice or nits in the affected area"
+  },
+  {
+    "type": "disease",
+    "name": "Parasitic Infections",
+    "section": "treatment",
+    "text": "Prescription medications (topical or oral antiparasitic agents), washing clothes and bedding in hot water"
+  },
+  {
+    "type": "disease",
+    "name": "Normal Pressure Hydrocephalus",
+    "section": "symptoms",
+    "text": "Gait disturbances, urinary incontinence, cognitive decline or dementia-like symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Normal Pressure Hydrocephalus",
+    "section": "treatment",
+    "text": "Ventriculoperitoneal shunt placement, medication management for symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Kidney Stone",
+    "section": "symptoms",
+    "text": "Severe pain in the side or back, blood in the urine, frequent urination"
+  },
+  {
+    "type": "disease",
+    "name": "Kidney Stone",
+    "section": "treatment",
+    "text": "Pain management, increased fluid intake, medication to facilitate stone passage, minimally invasive procedures or surgery"
+  },
+  {
+    "type": "disease",
+    "name": "Pituitary Disorder",
+    "section": "symptoms",
+    "text": "Various symptoms depending on the specific disorder, including hormonal imbalances"
+  },
+  {
+    "type": "disease",
+    "name": "Pituitary Disorder",
+    "section": "treatment",
+    "text": "Treatment depends on the specific pituitary disorder and may involve medications, surgery, hormone replacement therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Pinguecula",
+    "section": "symptoms",
+    "text": "Yellowish or white growth on the conjunctiva (eye's surface), usually near the cornea"
+  },
+  {
+    "type": "disease",
+    "name": "Pinguecula",
+    "section": "treatment",
+    "text": "Artificial tears, lubricating eye drops, sunglasses for UV protection, surgical removal (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Influenza (Flu)",
+    "section": "symptoms",
+    "text": "High fever, body aches, fatigue, cough, sore throat, congestion"
+  },
+  {
+    "type": "disease",
+    "name": "Influenza (Flu)",
+    "section": "treatment",
+    "text": "Rest, fluids, over-the-counter medications for symptom relief, antiviral medications (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Cat Scratch Disease",
+    "section": "symptoms",
+    "text": "Swollen lymph nodes, fever, fatigue, headache, rash"
+  },
+  {
+    "type": "disease",
+    "name": "Cat Scratch Disease",
+    "section": "treatment",
+    "text": "Antibiotics (azithromycin, doxycycline), pain management, supportive care"
+  },
+  {
+    "type": "disease",
+    "name": "Hyperemesis Gravidarum",
+    "section": "symptoms",
+    "text": "Severe nausea and vomiting during pregnancy"
+  },
+  {
+    "type": "disease",
+    "name": "Hyperemesis Gravidarum",
+    "section": "treatment",
+    "text": "Intravenous fluids to prevent dehydration, anti-nausea medications, nutritional support, rest, monitoring for weight loss and electrolyte imbalance"
+  },
+  {
+    "type": "disease",
+    "name": "Diabetic retinopathy",
+    "section": "symptoms",
+    "text": "Blurred or distorted vision, floaters, impaired color vision, dark or empty areas in the visual field, vision loss"
+  },
+  {
+    "type": "disease",
+    "name": "Diabetic retinopathy",
+    "section": "treatment",
+    "text": "Management of blood sugar levels, blood pressure control, cholesterol management, regular eye examinations, laser treatment , intravitreal injections of anti-VEGF medications, vitrectomy"
+  },
+  {
+    "type": "disease",
+    "name": "Aplastic Anemia",
+    "section": "symptoms",
+    "text": "Fatigue, pale skin, frequent infections, shortness of breath, rapid or irregular heartbeats, prolonged bleeding or bruising"
+  },
+  {
+    "type": "disease",
+    "name": "Aplastic Anemia",
+    "section": "treatment",
+    "text": "Blood transfusions, bone marrow-stimulating medications, immunosuppressive therapy, stem cell transplant (in severe cases), supportive care"
+  },
+  {
+    "type": "disease",
+    "name": "Wilson Disease",
+    "section": "symptoms",
+    "text": "Fatigue, abdominal pain or swelling, jaundice, neurological symptoms (tremors, difficulty speaking or walking)"
+  },
+  {
+    "type": "disease",
+    "name": "Wilson Disease",
+    "section": "treatment",
+    "text": "Medications to remove copper from the body (chelators), dietary changes, liver transplant (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Abuse (Barbiturates)",
+    "section": "symptoms",
+    "text": "Sedation, drowsiness, slurred speech, confusion, respiratory depression"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Abuse (Barbiturates)",
+    "section": "treatment",
+    "text": "Medical detoxification, supportive care, counseling, rehabilitation programs"
+  },
+  {
+    "type": "disease",
+    "name": "Primary Insomnia",
+    "section": "symptoms",
+    "text": "Difficulty falling asleep or staying asleep, daytime sleepiness, irritability, difficulty concentrating"
+  },
+  {
+    "type": "disease",
+    "name": "Primary Insomnia",
+    "section": "treatment",
+    "text": "Cognitive-behavioral therapy for insomnia (CBT-I), sleep hygiene practices (such as maintaining a regular sleep schedule, creating a comfortable sleep environment), relaxation techniques, stimulus control techniques (such as limiting bed activities to sleep only), sleep restriction therapy, medications for insomnia (such as sedative-hypnotics, melatonin agonists)"
+  },
+  {
+    "type": "disease",
+    "name": "Mastoiditis",
+    "section": "symptoms",
+    "text": "Ear pain (particularly behind the ear), swelling and redness of the ear or the area behind the ear, fever, headache, hearing loss or impaired hearing, drainage of fluid or pus from the ear, earache, irritability (in infants and young children), tenderness or pain when touching the area, mastoid bone protrusion or swelling"
+  },
+  {
+    "type": "disease",
+    "name": "Mastoiditis",
+    "section": "treatment",
+    "text": "Antibiotics (oral or intravenous) to treat the underlying bacterial infection, pain relievers (such as acetaminophen or ibuprofen) for pain and fever, ear drops (if there is drainage from the ear), surgical intervention (in severe or chronic cases), such as mastoidectomy (removal of infected mastoid bone cells) or tympanostomy tube placement (to relieve pressure and drain fluid from the middle ear), supportive care (rest, hydration, warm compresses)"
+  },
+  {
+    "type": "disease",
+    "name": "Acinic cell carcinoma",
+    "section": "symptoms",
+    "text": "Lump, swelling, Facial changes"
+  },
+  {
+    "type": "disease",
+    "name": "Acinic cell carcinoma",
+    "section": "treatment",
+    "text": "Surgery, Radiation therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Arthritis",
+    "section": "symptoms",
+    "text": "Joint pain, stiffness, swelling"
+  },
+  {
+    "type": "disease",
+    "name": "Arthritis",
+    "section": "treatment",
+    "text": "Medications, physical therapy, surgery (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Wharton's duct stones",
+    "section": "symptoms",
+    "text": "Swelling, pain, dry mouth, bad taste"
+  },
+  {
+    "type": "disease",
+    "name": "Wharton's duct stones",
+    "section": "treatment",
+    "text": "Hydration,Saliva stimulation, Stone removal"
+  },
+  {
+    "type": "disease",
+    "name": "Pharyngitis",
+    "section": "symptoms",
+    "text": "Sore throat, difficulty swallowing, swollen lymph nodes"
+  },
+  {
+    "type": "disease",
+    "name": "Pharyngitis",
+    "section": "treatment",
+    "text": "Rest, pain relievers, throat lozenges, antibiotics (if bacterial infection), symptomatic relief"
+  },
+  {
+    "type": "disease",
+    "name": "Pericarditis",
+    "section": "symptoms",
+    "text": "Chest pain (sharp and stabbing), worsens with deep breaths or lying down, fever"
+  },
+  {
+    "type": "disease",
+    "name": "Pericarditis",
+    "section": "treatment",
+    "text": "Nonsteroidal anti-inflammatory drugs (NSAIDs) to reduce inflammation and pain, colchicine (for recurrent or persistent pericarditis), corticosteroids (in severe cases or when NSAIDs are ineffective), antibiotics (if bacterial infection is present), lifestyle modifications (rest, avoiding strenuous activity), treating underlying causes (if identified), potential pericardiocentesis (fluid drainage)"
+  },
+  {
+    "type": "disease",
+    "name": "Antihypertensives Poisoning",
+    "section": "symptoms",
+    "text": "Dizziness, low blood pressure, slow heart rate, nausea, vomiting"
+  },
+  {
+    "type": "disease",
+    "name": "Antihypertensives Poisoning",
+    "section": "treatment",
+    "text": "Immediate medical attention, activated charcoal administration, supportive care, specific antidotes"
+  },
+  {
+    "type": "disease",
+    "name": "Hypothyroidism",
+    "section": "symptoms",
+    "text": "Fatigue, weight gain, sensitivity to cold, dry skin, constipation, depression, muscle weakness, elevated cholesterol levels"
+  },
+  {
+    "type": "disease",
+    "name": "Hypothyroidism",
+    "section": "treatment",
+    "text": "Hormone replacement therapy with synthetic thyroid hormone (levothyroxine), regular monitoring of thyroid hormone levels and adjustment of medication dosage, lifestyle modifications (such as healthy diet and regular exercise), management of associated symptoms (such as cholesterol-lowering medications or antidepressants), education and support for long-term management"
+  },
+  {
+    "type": "disease",
+    "name": "Oral Leukoplakia",
+    "section": "symptoms",
+    "text": "White patches or plaques in the mouth, often on the tongue or inside of the cheeks, that cannot be scraped off"
+  },
+  {
+    "type": "disease",
+    "name": "Oral Leukoplakia",
+    "section": "treatment",
+    "text": "Regular monitoring and follow-up, identification and elimination of potential irritants (such as tobacco or alcohol), improving oral hygiene practices, medication (such as topical retinoids or antifungal agents), surgical removal (in some cases), cryotherapy (freezing the patches), laser therapy, lifestyle modifications (such as healthy diet), regular dental check-ups, education and support"
+  },
+  {
+    "type": "disease",
+    "name": "Seborrheic Dermatitis",
+    "section": "symptoms",
+    "text": "Red, itchy, and oily patches of skin, dandruff, flaky scalp"
+  },
+  {
+    "type": "disease",
+    "name": "Seborrheic Dermatitis",
+    "section": "treatment",
+    "text": "Topical antifungal creams or ointments, medicated shampoos, corticosteroid creams"
+  },
+  {
+    "type": "disease",
+    "name": "Hydrocephalus",
+    "section": "symptoms",
+    "text": "Headache, nausea, vomiting, cognitive or developmental problems, enlarged head in infants"
+  },
+  {
+    "type": "disease",
+    "name": "Hydrocephalus",
+    "section": "treatment",
+    "text": "Shunt placement (to divert excess cerebrospinal fluid), endoscopic third ventriculostomy, medication (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Marijuana Abuse",
+    "section": "symptoms",
+    "text": "Impaired memory and cognition, altered judgment, anxiety"
+  },
+  {
+    "type": "disease",
+    "name": "Marijuana Abuse",
+    "section": "treatment",
+    "text": "Behavioral therapy, counseling, support groups, medication, detoxification"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Otitis Media",
+    "section": "symptoms",
+    "text": "Ear pain, hearing loss, recurrent ear infections"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Otitis Media",
+    "section": "treatment",
+    "text": "Antibiotics, ear drops, surgical intervention (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Pterygium",
+    "section": "symptoms",
+    "text": "Growth on the conjunctiva (white part of the eye)"
+  },
+  {
+    "type": "disease",
+    "name": "Pterygium",
+    "section": "treatment",
+    "text": "Artificial tears, eye lubricants, surgical removal (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Hepatic Encephalopathy",
+    "section": "symptoms",
+    "text": "Confusion, forgetfulness, personality changes, tremors"
+  },
+  {
+    "type": "disease",
+    "name": "Hepatic Encephalopathy",
+    "section": "treatment",
+    "text": "Treating underlying liver disease, medications to manage symptoms, dietary modifications"
+  },
+  {
+    "type": "disease",
+    "name": "Tietze Syndrome",
+    "section": "symptoms",
+    "text": "Chest pain, swelling and tenderness of the cartilage connecting the ribs to the breastbone"
+  },
+  {
+    "type": "disease",
+    "name": "Tietze Syndrome",
+    "section": "treatment",
+    "text": "Nonsteroidal anti-inflammatory drugs (NSAIDs), pain relievers, local heat or ice application, avoiding activities that worsen symptoms, supportive measures (such as wearing loose clothing or using supportive pillows), physical therapy (to improve posture and strengthen muscles), corticosteroid injections (in some cases), stress reduction techniques"
+  },
+  {
+    "type": "disease",
+    "name": "Nose Disorder",
+    "section": "symptoms",
+    "text": "Nasal congestion, runny nose, sneezing, facial pain or pressure, loss of smell"
+  },
+  {
+    "type": "disease",
+    "name": "Nose Disorder",
+    "section": "treatment",
+    "text": "Treatment depends on the underlying cause (such as allergies, sinusitis, or nasal polyps), and may include medications (such as decongestants, antihistamines, nasal sprays), saline nasal irrigation, steam inhalation, allergy management, antibiotics (if bacterial infection is present), surgical intervention (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Exfoliation Glaucoma",
+    "section": "symptoms",
+    "text": "Elevated intraocular pressure, visual field loss"
+  },
+  {
+    "type": "disease",
+    "name": "Exfoliation Glaucoma",
+    "section": "treatment",
+    "text": "Eye drops to lower intraocular pressure (e.g., prostaglandin analogs, beta blockers, alpha agonists, carbonic anhydrase inhibitors), laser trabeculoplasty, surgical procedures (e.g., trabeculectomy, glaucoma drainage implants)"
+  },
+  {
+    "type": "disease",
+    "name": "Protein Deficiency",
+    "section": "symptoms",
+    "text": "Muscle wasting, fatigue, weakness, delayed wound healing, swelling of the limbs, hair loss, impaired immunity"
+  },
+  {
+    "type": "disease",
+    "name": "Protein Deficiency",
+    "section": "treatment",
+    "text": "Increasing protein intake through diet (lean meats, fish, dairy, legumes, nuts), protein supplements, nutritional counseling, addressing underlying causes (e.g., malabsorption)"
+  },
+  {
+    "type": "disease",
+    "name": "Thrombocytopenia",
+    "section": "symptoms",
+    "text": "Easy bruising, prolonged bleeding from cuts, petechiae (red or purple spots on the skin), nosebleeds, excessive menstrual bleeding"
+  },
+  {
+    "type": "disease",
+    "name": "Thrombocytopenia",
+    "section": "treatment",
+    "text": "Treatment of underlying cause, platelet transfusion (if severe), medication (corticosteroids, immunosuppressants), avoiding medications that can worsen platelet counts"
+  },
+  {
+    "type": "disease",
+    "name": "Alopecia",
+    "section": "symptoms",
+    "text": "Hair loss or balding, patchy or generalized hair loss"
+  },
+  {
+    "type": "disease",
+    "name": "Alopecia",
+    "section": "treatment",
+    "text": "Topical medications (minoxidil), oral medications (finasteride), steroid injections, hair transplant surgery, wigs or hairpieces"
+  },
+  {
+    "type": "disease",
+    "name": "Polymyalgia Rheumatica",
+    "section": "symptoms",
+    "text": "Muscle pain and stiffness, joint pain, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Polymyalgia Rheumatica",
+    "section": "treatment",
+    "text": "Low-dose corticosteroids, nonsteroidal anti-inflammatory drugs (NSAIDs)"
+  },
+  {
+    "type": "disease",
+    "name": "Bone Cancer",
+    "section": "symptoms",
+    "text": "Bone pain, fractures, fatigue, unexplained weight loss"
+  },
+  {
+    "type": "disease",
+    "name": "Bone Cancer",
+    "section": "treatment",
+    "text": "Surgery, chemotherapy, radiation therapy, targeted therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Preeclampsia",
+    "section": "symptoms",
+    "text": "High blood pressure, proteinuria, swelling, headaches, visual disturbances"
+  },
+  {
+    "type": "disease",
+    "name": "Preeclampsia",
+    "section": "treatment",
+    "text": "Bed rest, blood pressure monitoring, frequent prenatal visits, medication (such as antihypertensive drugs), magnesium sulfate (for severe cases), delivery of the baby (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "section": "symptoms",
+    "text": "Shortness of breath, especially during physical activity or exertion, chest pain or discomfort, dizziness or lightheadedness, fainting or near-fainting episodes, heart palpitations (rapid or irregular heartbeat), fatigue, swelling in the ankles, feet, or legs"
+  },
+  {
+    "type": "disease",
+    "name": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "section": "treatment",
+    "text": "Medications to relieve symptoms and improve heart function (such as beta-blockers, calcium channel blockers, and disopyramide), medications to prevent abnormal heart rhythms (such as anti-arrhythmic drugs), medications to reduce blood clotting (such as aspirin or anticoagulants), implantable cardioverter-defibrillator (ICD) placement (to monitor and correct abnormal heart rhythms), septal myectomy (surgical removal of a portion of the thickened heart muscle), alcohol septal ablation (destruction of excess heart muscle with alcohol injection), lifestyle modifications (such as avoiding strenuous activities, managing stress, and maintaining a healthy weight), regular follow-up visits with a cardiologist"
+  },
+  {
+    "type": "disease",
+    "name": "Nonalcoholic Liver Disease (NASH)",
+    "section": "symptoms",
+    "text": "Fatigue, abdominal swelling or pain, enlarged liver, elevated liver enzymes, insulin resistance"
+  },
+  {
+    "type": "disease",
+    "name": "Nonalcoholic Liver Disease (NASH)",
+    "section": "treatment",
+    "text": "Lifestyle changes (weight loss, healthy diet, regular exercise), management of underlying conditions, medication as needed"
+  },
+  {
+    "type": "disease",
+    "name": "Amyloidosis",
+    "section": "symptoms",
+    "text": "Fatigue, weight loss, organ dysfunction"
+  },
+  {
+    "type": "disease",
+    "name": "Amyloidosis",
+    "section": "treatment",
+    "text": "Treatment depends on the type and extent of organ damage"
+  },
+  {
+    "type": "disease",
+    "name": "Ethylene glycol poisoning-3",
+    "section": "symptoms",
+    "text": "Decreased urine output, swelling in the legs and ankles, and signs of fluid overload, Severe kidney damage"
+  },
+  {
+    "type": "disease",
+    "name": "Ethylene glycol poisoning-3",
+    "section": "treatment",
+    "text": "Supportive Measures, Gastric Decontamination, Antidote Administration, Hemodialysis"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Rib",
+    "section": "symptoms",
+    "text": "Chest pain, difficulty breathing, tenderness or swelling over the ribcage"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Rib",
+    "section": "treatment",
+    "text": "Pain management, rest, immobilization (splinting or bracing), physical therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Breast Cancer",
+    "section": "symptoms",
+    "text": "Breast lump, changes in breast size or shape, nipple changes, breast pain"
+  },
+  {
+    "type": "disease",
+    "name": "Breast Cancer",
+    "section": "treatment",
+    "text": "Surgery (lumpectomy or mastectomy), radiation therapy, chemotherapy, hormone therapy, targeted therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Neuromyelitis Optica",
+    "section": "symptoms",
+    "text": "Optic neuritis (vision loss, pain with eye movement), transverse myelitis (weakness, numbness, or paralysis of the limbs, loss of bladder or bowel control)"
+  },
+  {
+    "type": "disease",
+    "name": "Neuromyelitis Optica",
+    "section": "treatment",
+    "text": "High-dose corticosteroids, plasma exchange (to remove antibodies from the blood), immunosuppressive therapy (such as azathioprine or rituximab), supportive care to manage symptoms, physical therapy or rehabilitation for functional recovery"
+  },
+  {
+    "type": "disease",
+    "name": "Eye alignment disorder",
+    "section": "symptoms",
+    "text": "Double vision, Eye fatigue, Poor depth perception, Head tilting"
+  },
+  {
+    "type": "disease",
+    "name": "Eye alignment disorder",
+    "section": "treatment",
+    "text": "Glasses, Patching therapy, Vision therapy, Botox injections, Surgical intervention"
+  },
+  {
+    "type": "disease",
+    "name": "Meniere Disease",
+    "section": "symptoms",
+    "text": "Vertigo, hearing loss, tinnitus, ear fullness"
+  },
+  {
+    "type": "disease",
+    "name": "Meniere Disease",
+    "section": "treatment",
+    "text": "Medications (diuretics, anti-vertigo drugs), lifestyle changes"
+  },
+  {
+    "type": "disease",
+    "name": "Pituitary Adenoma",
+    "section": "symptoms",
+    "text": "Headaches, vision problems (such as blurred vision or loss of peripheral vision), hormonal imbalances (such as excessive production or deficiency of specific hormones), fatigue, weight gain or loss, menstrual irregularities, infertility, erectile dysfunction, growth abnormalities in children, mood changes, cognitive impairments"
+  },
+  {
+    "type": "disease",
+    "name": "Pituitary Adenoma",
+    "section": "treatment",
+    "text": "Observation and monitoring (for small, non-secreting tumors that are not causing significant symptoms), medication (to manage hormonal imbalances or reduce tumor size), surgery (transsphenoidal surgery to remove the tumor), radiation therapy (in cases where surgery is not possible or to treat residual or recurrent tumors), targeted therapy (in cases of aggressive or resistant tumors), hormone replacement therapy (if necessary), regular follow-up and monitoring to assess tumor growth and hormone levels, management of associated complications or hormone deficiencies"
+  },
+  {
+    "type": "disease",
+    "name": "Ischemia of the Bowel",
+    "section": "symptoms",
+    "text": "Severe abdominal pain, bloody stools, diarrhea, nausea, vomiting, fever, rapid heart rate, low blood pressure"
+  },
+  {
+    "type": "disease",
+    "name": "Ischemia of the Bowel",
+    "section": "treatment",
+    "text": "diagnostic tests, intravenous fluids and medications to stabilize the patient, bowel rest, resection, bypass procedure, potential angioplasty"
+  },
+  {
+    "type": "disease",
+    "name": "Hydrocele of the Testicle",
+    "section": "symptoms",
+    "text": "Swelling of the scrotum"
+  },
+  {
+    "type": "disease",
+    "name": "Hydrocele of the Testicle",
+    "section": "treatment",
+    "text": "Observation, surgical drainage (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Endometrial Cancer",
+    "section": "symptoms",
+    "text": "Abnormal vaginal bleeding, pelvic pain or discomfort, changes in bowel or bladder habits"
+  },
+  {
+    "type": "disease",
+    "name": "Endometrial Cancer",
+    "section": "treatment",
+    "text": "Surgery (hysterectomy), radiation therapy, chemotherapy, hormone therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Endometriosis",
+    "section": "symptoms",
+    "text": "Pelvic pain, painful periods, infertility"
+  },
+  {
+    "type": "disease",
+    "name": "Endometriosis",
+    "section": "treatment",
+    "text": "Pain medications, hormonal therapies, surgery"
+  },
+  {
+    "type": "disease",
+    "name": "Hydronephrosis",
+    "section": "symptoms",
+    "text": "Flank pain, urinary frequency, swelling in the abdomen"
+  },
+  {
+    "type": "disease",
+    "name": "Hydronephrosis",
+    "section": "treatment",
+    "text": "Treating underlying cause, medications, ureteral stent, surgery"
+  },
+  {
+    "type": "disease",
+    "name": "Bell Palsy",
+    "section": "symptoms",
+    "text": "Facial weakness or paralysis, drooping of the mouth or eyelid"
+  },
+  {
+    "type": "disease",
+    "name": "Bell Palsy",
+    "section": "treatment",
+    "text": "Corticosteroids, antiviral medications, eye protection, physical therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Abscess of Nose",
+    "section": "symptoms",
+    "text": "Pain, swelling, redness, discharge from the nose"
+  },
+  {
+    "type": "disease",
+    "name": "Abscess of Nose",
+    "section": "treatment",
+    "text": "Antibiotics, warm compresses, surgical drainage (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Bladder Disorder",
+    "section": "symptoms",
+    "text": "Frequent urination, urgency, pelvic pain"
+  },
+  {
+    "type": "disease",
+    "name": "Bladder Disorder",
+    "section": "treatment",
+    "text": "Medications, bladder training, lifestyle changes"
+  },
+  {
+    "type": "disease",
+    "name": "Emphysema",
+    "section": "symptoms",
+    "text": "Shortness of breath, wheezing, chronic cough, chest tightness, fatigue, weight loss"
+  },
+  {
+    "type": "disease",
+    "name": "Emphysema",
+    "section": "treatment",
+    "text": "Smoking cessation (the most important intervention), medications to manage symptoms (such as bronchodilators, inhaled corticosteroids), pulmonary rehabilitation (exercise training, breathing techniques), supplemental oxygen therapy (in advanced cases), vaccination against respiratory infections, avoiding exposure to irritants (such as secondhand smoke or air pollutants), regular monitoring of symptoms and lung function, surgical interventions (such as lung volume reduction surgery or lung transplantation)"
+  },
+  {
+    "type": "disease",
+    "name": "Extrapyramidal Effect of Drugs",
+    "section": "symptoms",
+    "text": "Muscle stiffness, tremors, involuntary movements"
+  },
+  {
+    "type": "disease",
+    "name": "Extrapyramidal Effect of Drugs",
+    "section": "treatment",
+    "text": "Adjusting medication dosage, switching to alternative medications"
+  },
+  {
+    "type": "disease",
+    "name": "Vasculitis",
+    "section": "symptoms",
+    "text": "Inflammation of blood vessels leading to various symptoms depending on the affected organs, including rash, fever, fatigue, muscle and joint pain, shortness of breath, weight loss"
+  },
+  {
+    "type": "disease",
+    "name": "Vasculitis",
+    "section": "treatment",
+    "text": "Treatment depends on the type and severity of vasculitis. It may include corticosteroids, immunosuppressive medications (such as cyclophosphamide or azathioprine), biologic therapies (such as rituximab), disease-specific treatments (such as plasmapheresis for certain types), supportive care to manage symptoms (such as pain relievers or blood pressure medications), monitoring and management of associated complications (such as organ damage or infections)"
+  },
+  {
+    "type": "disease",
+    "name": "Female Infertility of Unknown Cause",
+    "section": "symptoms",
+    "text": "Inability to conceive after one year of unprotected intercourse, irregular or absent menstrual cycles, hormonal imbalances, age-related factors, other"
+  },
+  {
+    "type": "disease",
+    "name": "Female Infertility of Unknown Cause",
+    "section": "treatment",
+    "text": "Fertility testing and evaluation (hormone tests, imaging, genetic screening), lifestyle modifications (healthy diet, regular exercise, stress reduction), fertility treatments (assisted reproductive technologies, fertility medications)"
+  },
+  {
+    "type": "disease",
+    "name": "Syringomyelia",
+    "section": "symptoms",
+    "text": "Muscle weakness, loss of sensation, chronic pain"
+  },
+  {
+    "type": "disease",
+    "name": "Syringomyelia",
+    "section": "treatment",
+    "text": "Surgical decompression, draining of syrinx (cyst), physical therapy, pain management techniques"
+  },
+  {
+    "type": "disease",
+    "name": "Von Hippel-Lindau Disease",
+    "section": "symptoms",
+    "text": "Hemangioblastomas (tumors in the brain, spinal cord, or other organs), retinal angiomas (abnormal blood vessel growth in the retina), renal cell carcinomas (kidney tumors), pheochromocytomas (adrenal gland tumors), pancreatic cysts/tumors, other tumors or cysts"
+  },
+  {
+    "type": "disease",
+    "name": "Von Hippel-Lindau Disease",
+    "section": "treatment",
+    "text": "Regular monitoring and surveillance to detect and manage tumor growth and associated complications, surgical removal or treatment of tumors if necessary, embolization or radiation therapy for certain tumors, medication or surgery to manage hormonal issues (such as pheochromocytomas), genetic counseling and testing, screening and management for other potential complications (such as kidney function monitoring)"
+  },
+  {
+    "type": "disease",
+    "name": "Hemorrhoids",
+    "section": "symptoms",
+    "text": "Swollen, itchy, or painful veins in the rectal area"
+  },
+  {
+    "type": "disease",
+    "name": "Hemorrhoids",
+    "section": "treatment",
+    "text": "Increasing fiber intake, staying hydrated, avoiding straining during bowel movements, warm sitz baths, topical creams or ointments, over-the-counter pain relievers (after consulting with a healthcare provider)"
+  },
+  {
+    "type": "disease",
+    "name": "Bursitis",
+    "section": "symptoms",
+    "text": "Joint pain, swelling, tenderness, limited range of motion"
+  },
+  {
+    "type": "disease",
+    "name": "Bursitis",
+    "section": "treatment",
+    "text": "Rest, ice, compression, elevation (RICE therapy), pain relievers, physical therapy, steroid injections"
+  },
+  {
+    "type": "disease",
+    "name": "Cannabis Use Disorder",
+    "section": "symptoms",
+    "text": "Increased appetite, relaxation, altered perception of time, impaired memory and concentration, bloodshot eyes, anxiety or paranoia (in some individuals), withdrawal symptoms (such as irritability, insomnia) when attempting to stop or reduce cannabis use, continued use despite negative consequences (such as relationship problems, job difficulties)"
+  },
+  {
+    "type": "disease",
+    "name": "Cannabis Use Disorder",
+    "section": "treatment",
+    "text": "Counseling or therapy (such as cognitive-behavioral therapy, motivational interviewing), support groups, addressing underlying psychological or social factors, lifestyle changes, addressing co-occurring mental health conditions, harm reduction strategies, ongoing monitoring and support"
+  },
+  {
+    "type": "disease",
+    "name": "Heart Block",
+    "section": "symptoms",
+    "text": "Fatigue, dizziness, fainting, chest pain or discomfort, shortness of breath, irregular heart rhythms"
+  },
+  {
+    "type": "disease",
+    "name": "Heart Block",
+    "section": "treatment",
+    "text": "Medications (such as beta-blockers, calcium channel blockers), pacemaker implantation (in severe cases or symptomatic heart block), underlying condition management"
+  },
+  {
+    "type": "disease",
+    "name": "Hemolytic Anemia",
+    "section": "symptoms",
+    "text": "Fatigue, weakness, pale skin, shortness of breath, jaundice"
+  },
+  {
+    "type": "disease",
+    "name": "Hemolytic Anemia",
+    "section": "treatment",
+    "text": "Treatment of underlying cause, blood transfusions, medications (immunosuppressants, corticosteroids), splenectomy (in some cases), supportive care, folic acid or iron supplementation"
+  },
+  {
+    "type": "disease",
+    "name": "Benzodiazepine Use Disorder",
+    "section": "symptoms",
+    "text": "Sedation, relaxation, reduced anxiety, drowsiness, poor coordination, memory impairment, withdrawal symptoms (such as rebound anxiety, insomnia, tremors) when attempting to stop or reduce benzodiazepine use, continued use despite negative consequences (such as relationship problems, health risks)"
+  },
+  {
+    "type": "disease",
+    "name": "Benzodiazepine Use Disorder",
+    "section": "treatment",
+    "text": "Gradual tapering off benzodiazepines under medical supervision, counseling or therapy (such as cognitive-behavioral therapy), support groups, addressing underlying psychological or social factors, lifestyle changes, addressing co-occurring mental health conditions, harm reduction strategies, ongoing monitoring and support"
+  },
+  {
+    "type": "disease",
+    "name": "Mitral Valve Disease",
+    "section": "symptoms",
+    "text": "Fatigue, shortness of breath, heart palpitations"
+  },
+  {
+    "type": "disease",
+    "name": "Mitral Valve Disease",
+    "section": "treatment",
+    "text": "Medications, lifestyle changes, surgical repair or replacement of the valve (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Varicose Veins",
+    "section": "symptoms",
+    "text": "Enlarged, swollen veins, often in the legs"
+  },
+  {
+    "type": "disease",
+    "name": "Varicose Veins",
+    "section": "treatment",
+    "text": "Elevating legs, wearing compression stockings, regular exercise, avoiding prolonged sitting or standing, maintaining a healthy weight"
+  },
+  {
+    "type": "disease",
+    "name": "Recurrent salivary stones",
+    "section": "symptoms",
+    "text": "Frequent episodes of stone formation"
+  },
+  {
+    "type": "disease",
+    "name": "Recurrent salivary stones",
+    "section": "treatment",
+    "text": "Hydration,Saliva stimulation, Stone removal"
+  },
+  {
+    "type": "disease",
+    "name": "Ocular Hypertension",
+    "section": "symptoms",
+    "text": "Elevated intraocular pressure without optic nerve damage"
+  },
+  {
+    "type": "disease",
+    "name": "Ocular Hypertension",
+    "section": "treatment",
+    "text": "Observation with regular eye exams, use of eye drops to lower intraocular pressure (if necessary)"
+  },
+  {
+    "type": "disease",
+    "name": "Colonic Polyp",
+    "section": "symptoms",
+    "text": "Most colonic polyps do not cause symptoms. Some larger polyps or certain types may cause rectal bleeding or changes in bowel habits, such as diarrhea or constipation."
+  },
+  {
+    "type": "disease",
+    "name": "Colonic Polyp",
+    "section": "treatment",
+    "text": "Polypectomy (removal of polyp during colonoscopy), surveillance colonoscopy (regular monitoring for recurrence or new polyps), lifestyle modifications (healthy diet, regular exercise, smoking cessation), follow-up based on pathology findings"
+  },
+  {
+    "type": "disease",
+    "name": "Indigestion",
+    "section": "symptoms",
+    "text": "Abdominal pain, bloating, heartburn, nausea, acidic taste"
+  },
+  {
+    "type": "disease",
+    "name": "Indigestion",
+    "section": "treatment",
+    "text": "Lifestyle changes (e.g., dietary modifications, stress reduction), over-the-counter antacids, medication, therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Glaucoma",
+    "section": "symptoms",
+    "text": "Severe eye pain, blurred vision, halos around lights"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Glaucoma",
+    "section": "treatment",
+    "text": "Medications (eye drops), laser therapy, surgery (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Hypoglycemia",
+    "section": "symptoms",
+    "text": "Shaking, dizziness, confusion, sweating"
+  },
+  {
+    "type": "disease",
+    "name": "Hypoglycemia",
+    "section": "treatment",
+    "text": "Consuming glucose or sugar-containing foods, adjusting medication or insulin dosage"
+  },
+  {
+    "type": "disease",
+    "name": "Sciatica",
+    "section": "symptoms",
+    "text": "Sharp pain, tingling, or numbness that radiates from the lower back through the hips and down the leg"
+  },
+  {
+    "type": "disease",
+    "name": "Sciatica",
+    "section": "treatment",
+    "text": "Rest, gentle stretching exercises, warm or cold compresses, prenatal massages, maintaining good posture, avoiding activities that worsen the pain"
+  },
+  {
+    "type": "disease",
+    "name": "Type 2 Diabetes",
+    "section": "symptoms",
+    "text": "Fatigue, Increased hunger, Slow healing of wounds"
+  },
+  {
+    "type": "disease",
+    "name": "Type 2 Diabetes",
+    "section": "treatment",
+    "text": "Oral medications, Insulin therapy (in some cases), Blood sugar monitoring, Exercise"
+  },
+  {
+    "type": "disease",
+    "name": "Cystic Fibrosis",
+    "section": "symptoms",
+    "text": "Persistent cough with thick mucus, recurrent lung infections, poor growth or weight gain, salty-tasting skin"
+  },
+  {
+    "type": "disease",
+    "name": "Cystic Fibrosis",
+    "section": "treatment",
+    "text": "Medications (mucus-thinning drugs, bronchodilators), chest physical therapy, enzyme supplements, lung transplant (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Insulin Overdose",
+    "section": "symptoms",
+    "text": "Low blood sugar (hypoglycemia) symptoms (e.g., confusion, sweating)"
+  },
+  {
+    "type": "disease",
+    "name": "Insulin Overdose",
+    "section": "treatment",
+    "text": "Immediate treatment of hypoglycemia, medical assistance, adjusting insulin dosage and regimen"
+  },
+  {
+    "type": "disease",
+    "name": "Peritonsillar Abscess",
+    "section": "symptoms",
+    "text": "Severe sore throat, difficulty swallowing, fever, swollen tonsils, voice changes, neck pain or stiffness"
+  },
+  {
+    "type": "disease",
+    "name": "Peritonsillar Abscess",
+    "section": "treatment",
+    "text": "Antibiotics to treat infection, drainage of the abscess (needle aspiration or incision and drainage), pain relievers, warm saltwater gargles, rest, fluids, surgical removal of the tonsils (in chronic or recurrent cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Leishmaniasis",
+    "section": "symptoms",
+    "text": "Skin sores, fever, weight loss, enlarged spleen or liver"
+  },
+  {
+    "type": "disease",
+    "name": "Leishmaniasis",
+    "section": "treatment",
+    "text": "Antiparasitic medications, treatment of complications, vector control measures (in endemic areas)"
+  },
+  {
+    "type": "disease",
+    "name": "Pulmonary Congestion",
+    "section": "symptoms",
+    "text": "Shortness of breath, cough, wheezing, fatigue, chest discomfort or tightness"
+  },
+  {
+    "type": "disease",
+    "name": "Pulmonary Congestion",
+    "section": "treatment",
+    "text": "Diuretics, medications to manage underlying conditions (e.g., heart failure), oxygen therapy, lifestyle changes"
+  },
+  {
+    "type": "disease",
+    "name": "Magnesium Deficiency",
+    "section": "symptoms",
+    "text": "Muscle twitches or cramps, fatigue, weakness, loss of appetite, nausea, vomiting, irritability, mental confusion, irregular heartbeat, tingling or numbness, personality changes, seizures"
+  },
+  {
+    "type": "disease",
+    "name": "Magnesium Deficiency",
+    "section": "treatment",
+    "text": "Dietary changes (consuming magnesium-rich foods), oral magnesium supplements, intravenous magnesium therapy (in severe cases), addressing underlying causes (e.g., malabsorption), medical supervision and monitoring"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Shoulder",
+    "section": "symptoms",
+    "text": "Shoulder pain, swelling, limited range of motion"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Shoulder",
+    "section": "treatment",
+    "text": "Immobilization (sling, brace), pain management, physical therapy, surgical intervention (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Thrombophlebitis",
+    "section": "symptoms",
+    "text": "Redness, warmth, swelling, and tenderness along a vein, pain or discomfort, skin discoloration, visible veins, fever"
+  },
+  {
+    "type": "disease",
+    "name": "Thrombophlebitis",
+    "section": "treatment",
+    "text": "Medications to manage pain and inflammation, compression stockings or bandages to promote blood flow, elevation of the affected limb, warm compresses, regular movement and exercise, treatment of underlying causes (such as infection or intravenous catheter removal), anticoagulant therapy to prevent clot formation or progression"
+  },
+  {
+    "type": "disease",
+    "name": "Encephalitis",
+    "section": "symptoms",
+    "text": "Headache, fever, confusion, seizures, neurological symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Encephalitis",
+    "section": "treatment",
+    "text": "Hospitalization, antiviral medications (if caused by a viral infection), supportive care"
+  },
+  {
+    "type": "disease",
+    "name": "Fat Embolism",
+    "section": "symptoms",
+    "text": "Respiratory distress, chest pain, confusion, petechial rash (small red or purple spots), neurological symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Fat Embolism",
+    "section": "treatment",
+    "text": "Supportive care (oxygen therapy, fluid resuscitation), managing symptoms (pain medication, anticoagulants), treatment of underlying cause if possible"
+  },
+  {
+    "type": "disease",
+    "name": "Cyst of the Eyelid",
+    "section": "symptoms",
+    "text": "Painful lump or swelling on the eyelid, redness, tenderness"
+  },
+  {
+    "type": "disease",
+    "name": "Cyst of the Eyelid",
+    "section": "treatment",
+    "text": "Warm compresses, good eyelid hygiene, antibiotic ointments (if infected), surgical removal (if necessary)"
+  },
+  {
+    "type": "disease",
+    "name": "Dislocation of the Patella",
+    "section": "symptoms",
+    "text": "Knee pain, swelling, inability to straighten the leg"
+  },
+  {
+    "type": "disease",
+    "name": "Dislocation of the Patella",
+    "section": "treatment",
+    "text": "Manual reduction, immobilization, physical therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Conjunctivitis due to Allergy",
+    "section": "symptoms",
+    "text": "Redness, itching, watery discharge, swollen eyelids"
+  },
+  {
+    "type": "disease",
+    "name": "Conjunctivitis due to Allergy",
+    "section": "treatment",
+    "text": "Allergen avoidance, antihistamine eye drops, cold compresses, lubricating eye drops"
+  },
+  {
+    "type": "disease",
+    "name": "Coagulation (Bleeding) Disorder",
+    "section": "symptoms",
+    "text": "Easy bruising, prolonged bleeding after injury or surgery, excessive bleeding from minor cuts or abrasions, frequent nosebleeds, heavy menstrual bleeding"
+  },
+  {
+    "type": "disease",
+    "name": "Coagulation (Bleeding) Disorder",
+    "section": "treatment",
+    "text": "Blood transfusions, clotting factor replacement therapy, medications to stimulate clotting, lifestyle modifications, surgery (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Idiopathic Absence of Menstruation",
+    "section": "symptoms",
+    "text": "Lack of menstrual periods"
+  },
+  {
+    "type": "disease",
+    "name": "Idiopathic Absence of Menstruation",
+    "section": "treatment",
+    "text": "Evaluation to determine underlying cause, hormone therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Migraine",
+    "section": "symptoms",
+    "text": "Severe headaches, nausea, sensitivity to light and sound"
+  },
+  {
+    "type": "disease",
+    "name": "Migraine",
+    "section": "treatment",
+    "text": "Pain-relieving medications, lifestyle changes, preventive medications"
+  },
+  {
+    "type": "disease",
+    "name": "Temporomandibular Joint Disorder",
+    "section": "symptoms",
+    "text": "Jaw pain or tenderness, clicking or popping sounds in the jaw joint, difficulty chewing or opening the mouth"
+  },
+  {
+    "type": "disease",
+    "name": "Temporomandibular Joint Disorder",
+    "section": "treatment",
+    "text": "Self-care measures (rest, applying heat or cold, jaw exercises), pain medications, physical therapy, oral splints"
+  },
+  {
+    "type": "disease",
+    "name": "Vitamin A Deficiency",
+    "section": "symptoms",
+    "text": "Night blindness, dry eyes, dry or rough skin, poor wound healing, weakened immune system"
+  },
+  {
+    "type": "disease",
+    "name": "Vitamin A Deficiency",
+    "section": "treatment",
+    "text": "Vitamin A supplementation, dietary changes to include foods rich in vitamin A"
+  },
+  {
+    "type": "disease",
+    "name": "Glucocorticoid Deficiency",
+    "section": "symptoms",
+    "text": "Fatigue, weakness, weight loss, low blood pressure, abdominal pain"
+  },
+  {
+    "type": "disease",
+    "name": "Glucocorticoid Deficiency",
+    "section": "treatment",
+    "text": "Hormone replacement therapy with glucocorticoid medications"
+  },
+  {
+    "type": "disease",
+    "name": "Astigmatism",
+    "section": "symptoms",
+    "text": "Blurred or distorted vision, eye strain, headaches,uneven curvature of cornea"
+  },
+  {
+    "type": "disease",
+    "name": "Astigmatism",
+    "section": "treatment",
+    "text": "Eyeglasses, contact lenses, refractive surgery (LASIK, PRK), orthokeratology, toric intraocular lenses"
+  },
+  {
+    "type": "disease",
+    "name": "Low-Tension Glaucoma",
+    "section": "symptoms",
+    "text": "Gradual loss of vision, visual field defects"
+  },
+  {
+    "type": "disease",
+    "name": "Low-Tension Glaucoma",
+    "section": "treatment",
+    "text": "Eye drops to lower intraocular pressure (e.g., prostaglandin analogs, beta blockers, alpha agonists, carbonic anhydrase inhibitors), oral medications (e.g., carbonic anhydrase inhibitors), laser trabeculoplasty, surgical procedures (e.g., trabeculectomy, glaucoma drainage implants)"
+  },
+  {
+    "type": "disease",
+    "name": "Headache after lumbar puncture",
+    "section": "symptoms",
+    "text": "throbbing headache"
+  },
+  {
+    "type": "disease",
+    "name": "Headache after lumbar puncture",
+    "section": "treatment",
+    "text": "Epidural blood patch, Conservative measures"
+  },
+  {
+    "type": "disease",
+    "name": "Flat Feet",
+    "section": "symptoms",
+    "text": "Foot pain or achiness, difficulty with foot and ankle movement, foot fatigue, swelling"
+  },
+  {
+    "type": "disease",
+    "name": "Flat Feet",
+    "section": "treatment",
+    "text": "Supportive footwear, orthotic inserts, physical therapy exercises, pain management, surgery (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Carbon Monoxide Poisoning",
+    "section": "symptoms",
+    "text": "Headache, dizziness, nausea, confusion"
+  },
+  {
+    "type": "disease",
+    "name": "Carbon Monoxide Poisoning",
+    "section": "treatment",
+    "text": "Fresh air, oxygen therapy, immediate medical attention"
+  },
+  {
+    "type": "disease",
+    "name": "Orbital Cellulitis",
+    "section": "symptoms",
+    "text": "Eye pain, swelling, redness, vision changes"
+  },
+  {
+    "type": "disease",
+    "name": "Orbital Cellulitis",
+    "section": "treatment",
+    "text": "Antibiotics, hospitalization (in severe cases), surgical drainage (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Pulmonary Eosinophilia",
+    "section": "symptoms",
+    "text": "Cough, shortness of breath, wheezing, chest pain, fever, night sweats, fatigue, weight loss, elevated eosinophil count in the blood or sputum"
+  },
+  {
+    "type": "disease",
+    "name": "Pulmonary Eosinophilia",
+    "section": "treatment",
+    "text": "Identification and treatment of underlying causes (such as parasitic infections, drug reactions, or allergic reactions), corticosteroids (such as prednisone) to reduce inflammation, bronchodilators (such as inhalers) to relieve bronchospasm and improve airflow, antiparasitic medications (if parasitic infection is identified), immunosuppressive medications (in severe cases), avoidance of triggers or allergens (if identified), symptomatic treatment for associated symptoms (such as fever or cough), regular monitoring and follow-up with a healthcare professional"
+  },
+  {
+    "type": "disease",
+    "name": "Antimicrobial Drugs Poisoning",
+    "section": "symptoms",
+    "text": "Nausea, vomiting, diarrhea, neurological symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Antimicrobial Drugs Poisoning",
+    "section": "treatment",
+    "text": "Immediate medical attention, supportive care, antidote administration"
+  },
+  {
+    "type": "disease",
+    "name": "Eczema",
+    "section": "symptoms",
+    "text": "Itchy, red, inflamed skin, rash"
+  },
+  {
+    "type": "disease",
+    "name": "Eczema",
+    "section": "treatment",
+    "text": "Emollients (moisturizers), topical corticosteroids or immunomodulators, avoiding triggers"
+  },
+  {
+    "type": "disease",
+    "name": "Pneumonia",
+    "section": "symptoms",
+    "text": "Cough, fever, chest pain, difficulty breathing"
+  },
+  {
+    "type": "disease",
+    "name": "Pneumonia",
+    "section": "treatment",
+    "text": "Antibiotics, antiviral medications (if applicable), rest, fluids, symptomatic relief"
+  },
+  {
+    "type": "disease",
+    "name": "Intestinal Malabsorption",
+    "section": "symptoms",
+    "text": "Chronic diarrhea, weight loss, abdominal pain or bloating, nutrient deficiencies (vitamins, minerals), fatigue, failure to thrive"
+  },
+  {
+    "type": "disease",
+    "name": "Intestinal Malabsorption",
+    "section": "treatment",
+    "text": "Dietary modifications (specific to the underlying cause), supplementation of deficient nutrients, medications (to manage symptoms or underlying condition), treatment of underlying cause"
+  },
+  {
+    "type": "disease",
+    "name": "Conductive Hearing Loss",
+    "section": "symptoms",
+    "text": "Reduced hearing sensitivity, muffled or blocked sound"
+  },
+  {
+    "type": "disease",
+    "name": "Conductive Hearing Loss",
+    "section": "treatment",
+    "text": "Medications, surgical intervention, hearing aids"
+  },
+  {
+    "type": "disease",
+    "name": "Pinworm Infection",
+    "section": "symptoms",
+    "text": "Itching around the anus or vagina, restless sleep, irritability, anal or vaginal discharge, abdominal pain or discomfort, loss of appetite"
+  },
+  {
+    "type": "disease",
+    "name": "Pinworm Infection",
+    "section": "treatment",
+    "text": "Anthelmintic medication, hygiene measures (handwashing, trimming nails, laundering bedding), treatment for household members"
+  },
+  {
+    "type": "disease",
+    "name": "Esophageal Varices",
+    "section": "symptoms",
+    "text": "Swollen blood vessels in the esophagus, vomiting blood, black, tarry stools"
+  },
+  {
+    "type": "disease",
+    "name": "Esophageal Varices",
+    "section": "treatment",
+    "text": "Medications (beta-blockers, vasoconstrictors), endoscopic therapies, band ligation, transjugular intrahepatic portosystemic shunt (TIPS), surgical interventions"
+  },
+  {
+    "type": "disease",
+    "name": "Dermatitis due to Sun Exposure",
+    "section": "symptoms",
+    "text": "Sunburn-like rash, redness, itching"
+  },
+  {
+    "type": "disease",
+    "name": "Dermatitis due to Sun Exposure",
+    "section": "treatment",
+    "text": "Moisturizers, cool compresses, topical corticosteroids"
+  },
+  {
+    "type": "disease",
+    "name": "Gonorrhea",
+    "section": "symptoms",
+    "text": "Painful urination, abnormal discharge from the genitals, pelvic pain"
+  },
+  {
+    "type": "disease",
+    "name": "Gonorrhea",
+    "section": "treatment",
+    "text": "Antibiotics (dual therapy with ceftriaxone and azithromycin), safe sexual practices, partner notification"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Sinusitis",
+    "section": "symptoms",
+    "text": "Facial pain or pressure, nasal congestion, thick nasal discharge, postnasal drip, cough, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Sinusitis",
+    "section": "treatment",
+    "text": "Saline nasal irrigation, nasal corticosteroids, antibiotics (in bacterial cases), decongestants, pain relievers, surgery (in severe or chronic cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Concussion",
+    "section": "symptoms",
+    "text": "Headache, dizziness, nausea or vomiting, confusion, memory problems, sensitivity to light or noise, mood changes"
+  },
+  {
+    "type": "disease",
+    "name": "Concussion",
+    "section": "treatment",
+    "text": "Physical and cognitive rest, gradual return to normal activities, symptom management (such as pain relievers or anti-nausea medication), monitoring for complications (such as changes in neurological function), cognitive rehabilitation (if persistent cognitive problems), management of associated symptoms (such as sleep disturbances or mood changes), education and support for recovery, avoiding further head injuries"
+  },
+  {
+    "type": "disease",
+    "name": "Parathyroid Adenoma",
+    "section": "symptoms",
+    "text": "Fatigue, weakness, bone pain, frequent urination, kidney stones"
+  },
+  {
+    "type": "disease",
+    "name": "Parathyroid Adenoma",
+    "section": "treatment",
+    "text": "Surgical removal of the adenoma (parathyroidectomy), medications to manage calcium levels"
+  },
+  {
+    "type": "disease",
+    "name": "Herpangina",
+    "section": "symptoms",
+    "text": "Sore throat, fever, painful sores or blisters in the mouth and throat, difficulty swallowing, loss of appetite"
+  },
+  {
+    "type": "disease",
+    "name": "Herpangina",
+    "section": "treatment",
+    "text": "Symptomatic relief (pain relievers, throat lozenges, mouth rinses), rest, fluids, maintaining good oral hygiene, avoiding spicy or acidic foods"
+  },
+  {
+    "type": "disease",
+    "name": "Conversion Disorder",
+    "section": "symptoms",
+    "text": "Neurological symptoms that cannot be explained by a medical condition or injury, such as paralysis, blindness, seizures, or difficulty speaking"
+  },
+  {
+    "type": "disease",
+    "name": "Conversion Disorder",
+    "section": "treatment",
+    "text": "Psychotherapy (such as cognitive-behavioral therapy or psychodynamic therapy), physical therapy or rehabilitation (to improve physical function and reduce disability), addressing underlying stressors or psychological factors, supportive care and reassurance, potentially medications (such as antidepressants or anti-anxiety medications)"
+  },
+  {
+    "type": "disease",
+    "name": "Lymphedema",
+    "section": "symptoms",
+    "text": "Swelling in arms or legs, feeling of heaviness or tightness"
+  },
+  {
+    "type": "disease",
+    "name": "Lymphedema",
+    "section": "treatment",
+    "text": "Compression therapy, exercise, lymphatic drainage techniques, surgery (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Hirschsprung Disease",
+    "section": "symptoms",
+    "text": "Chronic constipation, abdominal distension, failure to pass meconium (in newborns)"
+  },
+  {
+    "type": "disease",
+    "name": "Hirschsprung Disease",
+    "section": "treatment",
+    "text": "Surgery to remove the affected part of the colon (pull-through procedure)"
+  },
+  {
+    "type": "disease",
+    "name": "Rheumatoid Arthritis",
+    "section": "symptoms",
+    "text": "Joint pain, stiffness, swelling, fatigue, loss of appetite"
+  },
+  {
+    "type": "disease",
+    "name": "Rheumatoid Arthritis",
+    "section": "treatment",
+    "text": "Medications (nonsteroidal anti-inflammatory drugs, disease-modifying antirheumatic drugs), physical therapy, exercise"
+  },
+  {
+    "type": "disease",
+    "name": "Turner syndrome",
+    "section": "symptoms",
+    "text": "Short stature, Gonadal dysgenesis, Webbed neck, Lymphedema"
+  },
+  {
+    "type": "disease",
+    "name": "Turner syndrome",
+    "section": "treatment",
+    "text": "Growth hormone therapy, Estrogen replacement therapy, Cardiac and renal evaluations"
+  },
+  {
+    "type": "disease",
+    "name": "Sciatica",
+    "section": "symptoms",
+    "text": "Pain radiating from the lower back to the leg"
+  },
+  {
+    "type": "disease",
+    "name": "Sciatica",
+    "section": "treatment",
+    "text": "Pain medications, physical therapy, stretching exercises"
+  },
+  {
+    "type": "disease",
+    "name": "Endophthalmitis",
+    "section": "symptoms",
+    "text": "Eye pain, redness, swelling, blurred vision, decreased vision, floaters (dark spots or cobwebs in the vision), increased sensitivity to light (photophobia), discharge from the eye, excessive tearing, fever"
+  },
+  {
+    "type": "disease",
+    "name": "Endophthalmitis",
+    "section": "treatment",
+    "text": "Immediate medical attention is required. Treatment may include: intravenous antibiotics or antifungal medications, intravitreal injections (injections of antibiotics or antifungal agents directly into the eye), vitrectomy (surgical removal of the gel-like fluid within the eye), topical or oral medications (to manage pain, inflammation, or infection), frequent follow-up visits with an ophthalmologist, supportive care (such as warm compresses or lubricating eye drops)"
+  },
+  {
+    "type": "disease",
+    "name": "Myelodysplastic Syndrome",
+    "section": "symptoms",
+    "text": "Fatigue, frequent infections, easy bruising or bleeding"
+  },
+  {
+    "type": "disease",
+    "name": "Myelodysplastic Syndrome",
+    "section": "treatment",
+    "text": "Supportive care, blood transfusions, medications, bone marrow transplantation (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Premature Ventricular Contractions (PVCs)",
+    "section": "symptoms",
+    "text": "Skipped or extra heartbeats, palpitations, lightheadedness"
+  },
+  {
+    "type": "disease",
+    "name": "Premature Ventricular Contractions (PVCs)",
+    "section": "treatment",
+    "text": "Monitoring (in most cases), lifestyle changes, medications (beta-blockers, antiarrhythmics)"
+  },
+  {
+    "type": "disease",
+    "name": "Ludwig's angina",
+    "section": "symptoms",
+    "text": "Severe swelling of the floor of the mouth, fever, difficulty swallowing, drooling"
+  },
+  {
+    "type": "disease",
+    "name": "Ludwig's angina",
+    "section": "treatment",
+    "text": "Intravenous antibiotics, airway management, surgical drainage"
+  },
+  {
+    "type": "disease",
+    "name": "Cryptococcosis",
+    "section": "symptoms",
+    "text": "Headache, fever, fatigue, cough, meningitis, pneumonia"
+  },
+  {
+    "type": "disease",
+    "name": "Cryptococcosis",
+    "section": "treatment",
+    "text": "Antifungal medication (e.g., Amphotericin B, Fluconazole), supportive care"
+  },
+  {
+    "type": "disease",
+    "name": "Diabetic Kidney Disease",
+    "section": "symptoms",
+    "text": "High blood pressure, increased need to urinate, swelling in the legs and ankles, fatigue, nausea, loss of appetite"
+  },
+  {
+    "type": "disease",
+    "name": "Diabetic Kidney Disease",
+    "section": "treatment",
+    "text": "Blood pressure control, blood sugar control, medications to protect the kidneys (such as ACE inhibitors or ARBs), lifestyle modifications (healthy diet, regular exercise, quitting smoking), management of underlying diabetes, treatment of complications (such as dialysis or kidney transplantation in advanced stages)"
+  },
+  {
+    "type": "disease",
+    "name": "Premenstrual Tension Syndrome",
+    "section": "symptoms",
+    "text": "Mood swings, bloating, breast tenderness, irritability"
+  },
+  {
+    "type": "disease",
+    "name": "Premenstrual Tension Syndrome",
+    "section": "treatment",
+    "text": "Lifestyle changes, medications (pain relievers, hormonal contraceptives), therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Abuse (Methamphetamine)",
+    "section": "symptoms",
+    "text": "Increased energy and alertness, decreased appetite, rapid heartbeat"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Abuse (Methamphetamine)",
+    "section": "treatment",
+    "text": "Detoxification, counseling, behavioral therapies, support groups, medication-assisted treatment (if applicable)"
+  },
+  {
+    "type": "disease",
+    "name": "Urge Incontinence",
+    "section": "symptoms",
+    "text": "Sudden, intense urge to urinate followed by involuntary urine leakage"
+  },
+  {
+    "type": "disease",
+    "name": "Urge Incontinence",
+    "section": "treatment",
+    "text": "Behavioral therapies (bladder training, pelvic floor exercises), medications (anticholinergics, beta-3 agonists), medical devices"
+  },
+  {
+    "type": "disease",
+    "name": "Dengue Fever",
+    "section": "symptoms",
+    "text": "High fever, severe headache, joint and muscle pain, rash, nausea or vomiting, bleeding tendencies"
+  },
+  {
+    "type": "disease",
+    "name": "Dengue Fever",
+    "section": "treatment",
+    "text": "Supportive care (hydration, pain relievers, rest), monitoring, medical attention for severe cases (fluid replacement, blood transfusion, hospitalization)"
+  },
+  {
+    "type": "disease",
+    "name": "Lead Poisoning",
+    "section": "symptoms",
+    "text": "Fatigue, abdominal pain, joint pain, memory loss or cognitive difficulties, developmental delays (in children), anemia"
+  },
+  {
+    "type": "disease",
+    "name": "Lead Poisoning",
+    "section": "treatment",
+    "text": "Removal of lead source, chelation therapy (in severe cases), supportive care, medication to manage symptoms, addressing complications (such as anemia)"
+  },
+  {
+    "type": "disease",
+    "name": "Actinic Keratosis",
+    "section": "symptoms",
+    "text": "Rough, scaly patches on the skin, usually in sun-exposed areas"
+  },
+  {
+    "type": "disease",
+    "name": "Actinic Keratosis",
+    "section": "treatment",
+    "text": "Topical medications (e.g., fluorouracil, imiquimod, diclofenac), cryotherapy, curettag"
+  },
+  {
+    "type": "disease",
+    "name": "Choledocholithiasis",
+    "section": "symptoms",
+    "text": "Abdominal pain (often in the upper right quadrant), jaundice, dark urine, pale stools, nausea, vomiting, endoscopic retrograde cholangiopancreatography (ERCP) with stone removal, sphincterotomy, Cholecystectomy "
+  },
+  {
+    "type": "disease",
+    "name": "Choledocholithiasis",
+    "section": "treatment",
+    "text": "Non-surgical treatment options: Medications to manage pain and discomfort, antibiotics"
+  },
+  {
+    "type": "disease",
+    "name": "Head and Neck Cancer",
+    "section": "symptoms",
+    "text": "Persistent sore throat, difficulty swallowing, voice changes, ear pain, neck mass, weight loss"
+  },
+  {
+    "type": "disease",
+    "name": "Head and Neck Cancer",
+    "section": "treatment",
+    "text": "Treatment depends on the specific type and stage of cancer, and may include surgery, radiation therapy, chemotherapy, targeted therapy, immunotherapy"
+  },
+  {
+    "type": "disease",
+    "name": "Sj\u00f6gren's syndrome",
+    "section": "symptoms",
+    "text": "Dry mouth and eyes, fatigue, joint pain, dry skin"
+  },
+  {
+    "type": "disease",
+    "name": "Sj\u00f6gren's syndrome",
+    "section": "treatment",
+    "text": "Symptomatic relief with artificial tears, saliva substitutes, frequent sips of water, medications to stimulate saliva production, immune-modulating drugs"
+  },
+  {
+    "type": "disease",
+    "name": "Peritonitis",
+    "section": "symptoms",
+    "text": "Severe abdominal pain, tenderness, bloating, fever, nausea, vomiting, loss of appetite, increased heart rate"
+  },
+  {
+    "type": "disease",
+    "name": "Peritonitis",
+    "section": "treatment",
+    "text": "Intravenous antibiotics to treat the infection, intravenous fluids to restore hydration, drainage or removal of any underlying fluid or abscess, surgery to repair or remove the source of infection"
+  },
+  {
+    "type": "disease",
+    "name": "Anemia of Chronic Disease",
+    "section": "symptoms",
+    "text": "Fatigue, weakness, pale skin, shortness of breath, decreased exercise tolerance"
+  },
+  {
+    "type": "disease",
+    "name": "Anemia of Chronic Disease",
+    "section": "treatment",
+    "text": "Treating the underlying chronic disease, addressing nutritional deficiencies, blood transfusions (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Ovarian Torsion",
+    "section": "symptoms",
+    "text": "Sudden and severe abdominal or pelvic pain on one side, sharp or stabbing pain, nausea, vomiting, fever, rapid heartbeat, abdominal tenderness, bloating, swelling, pain during intercourse, abnormal bleeding or spotting"
+  },
+  {
+    "type": "disease",
+    "name": "Ovarian Torsion",
+    "section": "treatment",
+    "text": "Emergency medical attention (as ovarian torsion is a medical emergency), imaging tests (such as ultrasound or CT scan) to diagnose torsion, surgical intervention (laparoscopic or open surgery) to untwist the ovary and restore blood flow, removal of the ovary (if it is damaged or non-viable), pain management (medications for pain relief)"
+  },
+  {
+    "type": "disease",
+    "name": "Sciatica",
+    "section": "symptoms",
+    "text": "Lower back pain, leg pain, numbness or tingling"
+  },
+  {
+    "type": "disease",
+    "name": "Sciatica",
+    "section": "treatment",
+    "text": "Pain relievers, physical therapy, exercise"
+  },
+  {
+    "type": "disease",
+    "name": "Lupus",
+    "section": "symptoms",
+    "text": "Joint pain, fatigue, skin rashes"
+  },
+  {
+    "type": "disease",
+    "name": "Lupus",
+    "section": "treatment",
+    "text": "Medications (anti-inflammatory, immunosuppressants), lifestyle modifications"
+  },
+  {
+    "type": "disease",
+    "name": "Neonatal Jaundice",
+    "section": "symptoms",
+    "text": "Yellowing of the skin and eyes, pale stools, dark urine"
+  },
+  {
+    "type": "disease",
+    "name": "Neonatal Jaundice",
+    "section": "treatment",
+    "text": "Phototherapy, exchange transfusion (in severe cases), monitoring of bilirubin levels, addressing underlying causes (e.g., breastfeeding)"
+  },
+  {
+    "type": "disease",
+    "name": "Gastrointestinal Hemorrhage",
+    "section": "symptoms",
+    "text": "Abdominal pain, vomiting blood, bloody or black stools"
+  },
+  {
+    "type": "disease",
+    "name": "Gastrointestinal Hemorrhage",
+    "section": "treatment",
+    "text": "Blood transfusions, endoscopy, surgery (in severe cases), medications to stop bleeding"
+  },
+  {
+    "type": "disease",
+    "name": "Dislocation of the Ankle",
+    "section": "symptoms",
+    "text": "Swelling, severe pain, inability to bear weight"
+  },
+  {
+    "type": "disease",
+    "name": "Dislocation of the Ankle",
+    "section": "treatment",
+    "text": "Reduction (realigning the bones), immobilization, rehab"
+  },
+  {
+    "type": "disease",
+    "name": "Vaginal Cyst",
+    "section": "symptoms",
+    "text": "Small lump or swelling in the vaginal wall, discomfort or pain during intercourse"
+  },
+  {
+    "type": "disease",
+    "name": "Vaginal Cyst",
+    "section": "treatment",
+    "text": "Observation (if asymptomatic), warm compresses, sitz baths, surgical removal (if necessary)"
+  },
+  {
+    "type": "disease",
+    "name": "Orthorexia Nervosa",
+    "section": "symptoms",
+    "text": "Obsessive focus on \"clean\" eating, healthy food choices"
+  },
+  {
+    "type": "disease",
+    "name": "Orthorexia Nervosa",
+    "section": "treatment",
+    "text": "Psychotherapy (such as cognitive-behavioral therapy or acceptance and commitment therapy), nutrition education, challenging distorted beliefs, addressing underlying issues"
+  },
+  {
+    "type": "disease",
+    "name": "Urinary Tract Infection (UTI)",
+    "section": "symptoms",
+    "text": "Frequent urination, burning sensation during urination, cloudy or bloody urine, pelvic pain"
+  },
+  {
+    "type": "disease",
+    "name": "Urinary Tract Infection (UTI)",
+    "section": "treatment",
+    "text": "Antibiotics, increased fluid intake, pain relievers"
+  },
+  {
+    "type": "disease",
+    "name": "Placenta Previa",
+    "section": "symptoms",
+    "text": "Vaginal bleeding, painless bleeding in the third trimester"
+  },
+  {
+    "type": "disease",
+    "name": "Placenta Previa",
+    "section": "treatment",
+    "text": "Bed rest, avoiding strenuous activity, frequent prenatal check-ups, potential hospitalization, potential cesarean delivery"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Pancreatitis",
+    "section": "symptoms",
+    "text": "Severe upper abdominal pain, nausea, vomiting, fever, rapid pulse, swollen and tender abdomen, jaundice"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Pancreatitis",
+    "section": "treatment",
+    "text": "Hospitalization, intravenous fluids to restore hydration, pain management, bowel rest, nutritional support, medications to control pain and inflammation"
+  },
+  {
+    "type": "disease",
+    "name": "Gum Disease",
+    "section": "symptoms",
+    "text": "Swollen, red, tender gums, bleeding gums"
+  },
+  {
+    "type": "disease",
+    "name": "Gum Disease",
+    "section": "treatment",
+    "text": "Oral hygiene practices (brushing, flossing), professional dental cleanings, medications, surgical interventions"
+  },
+  {
+    "type": "disease",
+    "name": "Panic Attack",
+    "section": "symptoms",
+    "text": "Chest pain, shortness of breath, palpitations"
+  },
+  {
+    "type": "disease",
+    "name": "Panic Attack",
+    "section": "treatment",
+    "text": "Breathing exercises, relaxation techniques, therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Lice",
+    "section": "symptoms",
+    "text": "Itching and visible presence of lice or nits (eggs) in the hair"
+  },
+  {
+    "type": "disease",
+    "name": "Lice",
+    "section": "treatment",
+    "text": "Over-the-counter or prescription medications specifically designed to kill lice (such as pediculicides), manual removal of lice and nits using a fine-toothed comb, washing and drying of infested clothing and bedding at high temperatures, vacuuming of upholstery and household surfaces, disinfection of personal items that cannot be washed or dried, avoiding direct head-to-head contact with infested individuals, education and prevention strategies"
+  },
+  {
+    "type": "disease",
+    "name": "Pyloric stenosis",
+    "section": "symptoms",
+    "text": "Persistent hunger, Weight loss, Dehydration, Visible peristalsis, Palpable mass, Fussiness "
+  },
+  {
+    "type": "disease",
+    "name": "Pyloric stenosis",
+    "section": "treatment",
+    "text": "Ultrasound, Blood tests, Pyloromyotomy"
+  },
+  {
+    "type": "disease",
+    "name": "Pigmentary Glaucoma",
+    "section": "symptoms",
+    "text": "Blurred vision, halos around lights, eye pain"
+  },
+  {
+    "type": "disease",
+    "name": "Pigmentary Glaucoma",
+    "section": "treatment",
+    "text": "Eye drops to lower intraocular pressure (e.g., prostaglandin analogs, beta blockers, alpha agonists, carbonic anhydrase inhibitors), laser trabeculoplasty, surgical procedures (e.g., trabeculectomy, glaucoma drainage implants)"
+  },
+  {
+    "type": "disease",
+    "name": "Abscess",
+    "section": "symptoms",
+    "text": "Swelling, pain, redness, fever, pus formation"
+  },
+  {
+    "type": "disease",
+    "name": "Abscess",
+    "section": "treatment",
+    "text": "Antibiotics, surgical drainage"
+  },
+  {
+    "type": "disease",
+    "name": "Myositis",
+    "section": "symptoms",
+    "text": "Muscle weakness, pain, inflammation"
+  },
+  {
+    "type": "disease",
+    "name": "Myositis",
+    "section": "treatment",
+    "text": "Medications (corticosteroids, immunosuppressants), physical therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Von Willebrand Disease",
+    "section": "symptoms",
+    "text": "Easy or excessive bruising, prolonged or excessive bleeding from cuts or injuries, frequent nosebleeds, heavy or prolonged menstrual periods, bleeding gums, blood in urine or stool"
+  },
+  {
+    "type": "disease",
+    "name": "Von Willebrand Disease",
+    "section": "treatment",
+    "text": "Desmopressin (DDAVP) medication, replacement therapy with von Willebrand factor (VWF) concentrate or cryoprecipitate, oral contraceptives (for women with heavy menstrual bleeding), avoiding certain medications, dental care precautions, regular medical follow-up"
+  },
+  {
+    "type": "disease",
+    "name": "Gastroparesis",
+    "section": "symptoms",
+    "text": "Nausea, vomiting, early satiety, bloating, abdominal pain, poor appetite"
+  },
+  {
+    "type": "disease",
+    "name": "Gastroparesis",
+    "section": "treatment",
+    "text": "Dietary modifications (small, frequent meals; low-fiber, low-fat diet), medication to promote gastric emptying, managing underlying cause if possible"
+  },
+  {
+    "type": "disease",
+    "name": "Chancroid",
+    "section": "symptoms",
+    "text": "Painful ulcers or sores on the genital area, swollen lymph nodes in the groin"
+  },
+  {
+    "type": "disease",
+    "name": "Chancroid",
+    "section": "treatment",
+    "text": "Antibiotics (such as azithromycin or ceftriaxone), pain management, warm compresses, good hygiene"
+  },
+  {
+    "type": "disease",
+    "name": "Fungal Infection of the Skin",
+    "section": "symptoms",
+    "text": "Rash, itching, redness, peeling skin"
+  },
+  {
+    "type": "disease",
+    "name": "Fungal Infection of the Skin",
+    "section": "treatment",
+    "text": "Antifungal creams, powders, or oral medications, proper hygiene and skin care"
+  },
+  {
+    "type": "disease",
+    "name": "Stimulant Use Disorder",
+    "section": "symptoms",
+    "text": "Increased energy and alertness, euphoria, decreased appetite, increased heart rate and blood pressure, insomnia, restlessness, irritability, paranoia, psychosis (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Stimulant Use Disorder",
+    "section": "treatment",
+    "text": "Counseling or therapy (such as cognitive-behavioral therapy, motivational interviewing), support groups, medication (if applicable), addressing underlying psychological or social factors, lifestyle changes, addressing co-occurring mental health conditions, harm reduction strategies, ongoing monitoring and support"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Fatigue Syndrome",
+    "section": "symptoms",
+    "text": "Extreme fatigue, cognitive difficulties, unrefreshing sleep"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Fatigue Syndrome",
+    "section": "treatment",
+    "text": "Symptom management (such as medications to address pain, sleep disturbances, and other symptoms), graded exercise therapy, cognitive-behavioral therapy, sleep management techniques, pacing and energy conservation, stress reduction techniques, nutritional support, medications for specific symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Threatened Pregnancy",
+    "section": "symptoms",
+    "text": "Vaginal bleeding, abdominal cramps, pelvic pain"
+  },
+  {
+    "type": "disease",
+    "name": "Threatened Pregnancy",
+    "section": "treatment",
+    "text": "Bed rest, medications (progesterone), monitoring, avoiding activities that may stress the pregnancy"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Glaucoma",
+    "section": "symptoms",
+    "text": "Gradual vision loss, peripheral vision impairment, eye pain or discomfort, halos around lights"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Glaucoma",
+    "section": "treatment",
+    "text": "Eye drops (to reduce intraocular pressure), oral medications, laser therapy, surgery (trabeculectomy, implantable devices), regular eye exams"
+  },
+  {
+    "type": "disease",
+    "name": "Urticaria (Hives)",
+    "section": "symptoms",
+    "text": "Raised, itchy welts on the skin"
+  },
+  {
+    "type": "disease",
+    "name": "Urticaria (Hives)",
+    "section": "treatment",
+    "text": "Antihistamines, avoiding triggers, corticosteroids (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Vitreous Hemorrhage",
+    "section": "symptoms",
+    "text": "Floaters in vision, blurry vision, eye pain"
+  },
+  {
+    "type": "disease",
+    "name": "Vitreous Hemorrhage",
+    "section": "treatment",
+    "text": "Observation, laser treatment, vitrectomy (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Binge Eating Disorder",
+    "section": "symptoms",
+    "text": "Recurrent episodes of binge eating without compensatory behaviors"
+  },
+  {
+    "type": "disease",
+    "name": "Binge Eating Disorder",
+    "section": "treatment",
+    "text": "Psychotherapy (such as cognitive-behavioral therapy or interpersonal therapy), nutritional counseling, medications (in some cases), support groups"
+  },
+  {
+    "type": "disease",
+    "name": "Hypercholesterolemia",
+    "section": "symptoms",
+    "text": "High levels of cholesterol in the blood, fatty deposits (xanthomas) on the skin or tendons, chest pain or angina, heart attacks, strokes"
+  },
+  {
+    "type": "disease",
+    "name": "Hypercholesterolemia",
+    "section": "treatment",
+    "text": "Lifestyle modifications (healthy diet, regular exercise, weight management, smoking cessation), medications to lower cholesterol levels (such as statins), regular monitoring of cholesterol levels, management of underlying conditions (such as diabetes or high blood pressure), potential additional treatments (such as bile acid sequestrants or PCSK9 inhibitors)"
+  },
+  {
+    "type": "disease",
+    "name": "Stress Incontinence",
+    "section": "symptoms",
+    "text": "Unintentional urine leakage during physical activity"
+  },
+  {
+    "type": "disease",
+    "name": "Stress Incontinence",
+    "section": "treatment",
+    "text": "Pelvic floor exercises, behavioral techniques, surgery (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Labyrinthitis",
+    "section": "symptoms",
+    "text": "Vertigo, dizziness, nausea, hearing loss, ear pain"
+  },
+  {
+    "type": "disease",
+    "name": "Labyrinthitis",
+    "section": "treatment",
+    "text": "Medications (antibiotics, antivirals), vestibular rehabilitation therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Dysthymic Disorder",
+    "section": "symptoms",
+    "text": "Persistent depressive symptoms (low mood, lack of interest, changes in sleep and appetite), lasting for at least two years"
+  },
+  {
+    "type": "disease",
+    "name": "Dysthymic Disorder",
+    "section": "treatment",
+    "text": "Psychotherapy (cognitive-behavioral therapy, interpersonal therapy), antidepressant medications"
+  },
+  {
+    "type": "disease",
+    "name": "Ethylene glycol poisoning-1",
+    "section": "symptoms",
+    "text": "Nausea, vomiting, abdominal pain, General malaise, weakness, Increased thirst, frequent urination"
+  },
+  {
+    "type": "disease",
+    "name": "Ethylene glycol poisoning-1",
+    "section": "treatment",
+    "text": "Supportive Measures, Gastric Decontamination, Antidote Administration, Hemodialysis"
+  },
+  {
+    "type": "disease",
+    "name": "Impulse Control Disorder",
+    "section": "symptoms",
+    "text": "Impulsive behaviors (e.g., gambling, stealing), difficulty resisting urges"
+  },
+  {
+    "type": "disease",
+    "name": "Impulse Control Disorder",
+    "section": "treatment",
+    "text": "Psychotherapy, medication (in some cases), support groups, behavioral interventions"
+  },
+  {
+    "type": "disease",
+    "name": "Intracranial Hemorrhage",
+    "section": "symptoms",
+    "text": "Severe headache, nausea or vomiting, changes in vision, loss of consciousness, seizures"
+  },
+  {
+    "type": "disease",
+    "name": "Intracranial Hemorrhage",
+    "section": "treatment",
+    "text": "Emergency medical attention, surgery (if needed), medications to control bleeding and manage symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Postpartum Depression",
+    "section": "symptoms",
+    "text": "Persistent feelings of sadness, emptiness, or hopelessness, frequent crying, irritability, loss of interest or pleasure in activities, difficulty bonding with the baby, changes in appetite or sleep patterns, overwhelming fatigue, feelings of guilt or worthlessness, trouble concentrating or making decisions, thoughts of self-harm or harming the baby"
+  },
+  {
+    "type": "disease",
+    "name": "Postpartum Depression",
+    "section": "treatment",
+    "text": "Psychotherapy (such as cognitive-behavioral therapy or interpersonal therapy), support groups or peer counseling, antidepressant medication (if recommended by a healthcare professional), hormone therapy (in some cases), lifestyle changes (such as exercise, healthy diet, sleep hygiene), involving a partner or family in the care of the baby, social support and understanding from family and friends, regular follow-up and monitoring by healthcare professionals"
+  },
+  {
+    "type": "disease",
+    "name": "Injury to the Leg",
+    "section": "symptoms",
+    "text": "Pain, swelling, bruising, difficulty walking"
+  },
+  {
+    "type": "disease",
+    "name": "Injury to the Leg",
+    "section": "treatment",
+    "text": "R.I.C.E. (Rest, Ice, Compression, Elevation), pain medications, physical therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Stroke",
+    "section": "symptoms",
+    "text": "Sudden numbness or weakness of the face, arm, or leg (typically on one side of the body), confusion, trouble speaking or understanding, severe headache"
+  },
+  {
+    "type": "disease",
+    "name": "Stroke",
+    "section": "treatment",
+    "text": "Emergency medical attention, medication (clot-busting drugs, anticoagulants), supportive care, rehabilitation (physical therapy, speech therapy), lifestyle modifications (diet, exercise, smoking cessation), addressing underlying risk factors"
+  },
+  {
+    "type": "disease",
+    "name": "Huntington Disease",
+    "section": "symptoms",
+    "text": "Motor, cognitive, and psychiatric symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Huntington Disease",
+    "section": "treatment",
+    "text": "Supportive care, medications (to manage symptoms), therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Mononucleosis",
+    "section": "symptoms",
+    "text": "Fatigue, sore throat, swollen lymph nodes"
+  },
+  {
+    "type": "disease",
+    "name": "Mononucleosis",
+    "section": "treatment",
+    "text": "Rest, pain relievers, fluids, symptom management"
+  },
+  {
+    "type": "disease",
+    "name": "Hallucinogen Use Disorder",
+    "section": "symptoms",
+    "text": "Altered perception of reality, visual or auditory hallucinations, changes in sensory experiences, introspective thoughts, feelings of connection or disconnection, anxiety or paranoia (in some individuals), flashbacks (in some individuals)"
+  },
+  {
+    "type": "disease",
+    "name": "Hallucinogen Use Disorder",
+    "section": "treatment",
+    "text": "Counseling or therapy (such as cognitive-behavioral therapy, motivational interviewing), support groups, addressing underlying psychological or social factors, harm reduction strategies, ongoing monitoring and support"
+  },
+  {
+    "type": "disease",
+    "name": "Ependymoma",
+    "section": "symptoms",
+    "text": "Headaches, nausea, seizures, changes in coordination or balance"
+  },
+  {
+    "type": "disease",
+    "name": "Ependymoma",
+    "section": "treatment",
+    "text": "Surgery, radiation therapy, chemotherapy, targeted therapy, rehabilitation"
+  },
+  {
+    "type": "disease",
+    "name": "Lymphoma",
+    "section": "symptoms",
+    "text": "Swollen lymph nodes, unexplained weight loss, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Lymphoma",
+    "section": "treatment",
+    "text": "Chemotherapy, radiation therapy, immunotherapy, targeted therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Urinary Tract Infection (UTI)",
+    "section": "symptoms",
+    "text": "Painful urination, frequent urination, pelvic pain, cloudy urine"
+  },
+  {
+    "type": "disease",
+    "name": "Urinary Tract Infection (UTI)",
+    "section": "treatment",
+    "text": "Antibiotics safe for pregnancy, increased fluid intake, maintaining good hygiene, urine culture and sensitivity testing to guide antibiotic selection"
+  },
+  {
+    "type": "disease",
+    "name": "Transient ischemic attack",
+    "section": "symptoms",
+    "text": "Sudden onset of neurological symptoms that resolve within 24 hours"
+  },
+  {
+    "type": "disease",
+    "name": "Transient ischemic attack",
+    "section": "treatment",
+    "text": "Antiplatelet medications, Carotid endarterectomy,  Anticoagulant medications, Lifestyle modifications"
+  },
+  {
+    "type": "disease",
+    "name": "Normal-Tension Glaucoma",
+    "section": "symptoms",
+    "text": "Gradual loss of vision, visual field defects"
+  },
+  {
+    "type": "disease",
+    "name": "Normal-Tension Glaucoma",
+    "section": "treatment",
+    "text": "Eye drops to lower intraocular pressure (e.g., prostaglandin analogs, beta blockers, alpha agonists, carbonic anhydrase inhibitors), oral medications (e.g., carbonic anhydrase inhibitors), laser trabeculoplasty, surgical procedures (e.g., trabeculectomy, glaucoma drainage implants)"
+  },
+  {
+    "type": "disease",
+    "name": "Thyroid Disease",
+    "section": "symptoms",
+    "text": "Fatigue, weight changes, mood swings, dry skin"
+  },
+  {
+    "type": "disease",
+    "name": "Thyroid Disease",
+    "section": "treatment",
+    "text": "Medications (thyroid hormone replacement, antithyroid drugs), radioactive iodine therapy, surgery (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Bladder Cancer",
+    "section": "symptoms",
+    "text": "Blood in urine, frequent urination, pelvic pain"
+  },
+  {
+    "type": "disease",
+    "name": "Bladder Cancer",
+    "section": "treatment",
+    "text": "Surgery, chemotherapy, radiation therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Arm",
+    "section": "symptoms",
+    "text": "Pain, swelling, deformity, limited mobility or difficulty moving the arm, bruising"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Arm",
+    "section": "treatment",
+    "text": "Immobilization (cast or splint), pain management, physical therapy, surgery (in complex fractures)"
+  },
+  {
+    "type": "disease",
+    "name": "Mucocele",
+    "section": "symptoms",
+    "text": "Painless swelling, usually on the lower lip or floor of the mouth"
+  },
+  {
+    "type": "disease",
+    "name": "Mucocele",
+    "section": "treatment",
+    "text": "Observation, surgical removal if necessary"
+  },
+  {
+    "type": "disease",
+    "name": "Kidney Failure",
+    "section": "symptoms",
+    "text": "Decreased urine output, fluid retention, fatigue, shortness of breath, nausea, confusion, chest pain, seizures"
+  },
+  {
+    "type": "disease",
+    "name": "Kidney Failure",
+    "section": "treatment",
+    "text": "Treatment depends on the underlying cause and may include medications to manage blood pressure and symptoms, dietary modifications (restricting salt, protein, and potassium), dialysis (hemodialysis or peritoneal dialysis) or kidney transplantation (in end-stage kidney failure), treatment of complications, management of fluid and electrolyte balance, lifestyle modifications (exercise, quitting smoking, healthy diet)"
+  },
+  {
+    "type": "disease",
+    "name": "Chagas Disease",
+    "section": "symptoms",
+    "text": "Fever, fatigue, body aches, heart and digestive problems"
+  },
+  {
+    "type": "disease",
+    "name": "Chagas Disease",
+    "section": "treatment",
+    "text": "Antiparasitic medications, medications to manage symptoms, supportive care"
+  },
+  {
+    "type": "disease",
+    "name": "Leukemia",
+    "section": "symptoms",
+    "text": "Fatigue, pale skin, frequent infections, easy bleeding or bruising"
+  },
+  {
+    "type": "disease",
+    "name": "Leukemia",
+    "section": "treatment",
+    "text": "Chemotherapy, radiation therapy, stem cell transplant, targeted therapy, supportive care"
+  },
+  {
+    "type": "disease",
+    "name": "Vesicoureteral Reflux",
+    "section": "symptoms",
+    "text": "Frequent urinary tract infections, urinary urgency or frequency, bedwetting (in children), high blood pressure (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Vesicoureteral Reflux",
+    "section": "treatment",
+    "text": "Antibiotics, bladder training exercises, surgical correction (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Endometriosis",
+    "section": "symptoms",
+    "text": "Pelvic pain (during menstruation, intercourse, or bowel movements), heavy menstrual bleeding, infertility"
+  },
+  {
+    "type": "disease",
+    "name": "Endometriosis",
+    "section": "treatment",
+    "text": "Pain management (such as nonsteroidal anti-inflammatory drugs [NSAIDs], hormonal contraceptives, or progestins), hormone therapy (such as gonadotropin-releasing hormone [GnRH] agonists or oral contraceptives), surgical interventions (such as laparoscopic excision or hysterectomy), fertility treatments (if pregnancy is desired), lifestyle modifications (such as regular exercise, stress management), complementary therapies (such as acupuncture or dietary changes)"
+  },
+  {
+    "type": "disease",
+    "name": "Psoriasis",
+    "section": "symptoms",
+    "text": "Red, scaly patches on the skin, itching"
+  },
+  {
+    "type": "disease",
+    "name": "Psoriasis",
+    "section": "treatment",
+    "text": "Topical treatments (corticosteroids, salicylic acid), systemic medications (retinoids, immunosuppressants), phototherapy"
+  },
+  {
+    "type": "disease",
+    "name": "Infection of Open Wound",
+    "section": "symptoms",
+    "text": "Redness, swelling, warmth, pain or tenderness at the wound site, pus or drainage from the wound, fever, malaise"
+  },
+  {
+    "type": "disease",
+    "name": "Infection of Open Wound",
+    "section": "treatment",
+    "text": "Cleaning and irrigation of the wound, antibiotic therapy (oral or intravenous), wound dressings, wound debridement (if necessary), tetanus prophylaxis"
+  },
+  {
+    "type": "disease",
+    "name": "Anemia",
+    "section": "symptoms",
+    "text": "Fatigue, weakness, pale skin, shortness of breath"
+  },
+  {
+    "type": "disease",
+    "name": "Anemia",
+    "section": "treatment",
+    "text": "Iron supplementation, dietary changes (iron-rich foods), managing underlying causes (such as treating iron deficiency or vitamin B12 deficiency), prenatal vitamins"
+  },
+  {
+    "type": "disease",
+    "name": "Spondylosis",
+    "section": "symptoms",
+    "text": "Neck or back pain, stiffness, limited range of motion, numbness or weakness in the extremities"
+  },
+  {
+    "type": "disease",
+    "name": "Spondylosis",
+    "section": "treatment",
+    "text": "Medications (pain relievers, muscle relaxants), physical therapy, exercise, posture improvement, heat or cold therapy, spinal injections, surgery (in severe cases or if conservative treatments fail)"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Otitis Media",
+    "section": "symptoms",
+    "text": "Ear pain, fever, fluid drainage from the ear, hearing loss or muffled hearing in the affected ear"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Otitis Media",
+    "section": "treatment",
+    "text": "Antibiotics, pain relievers (e.g., acetaminophen, ibuprofen), warm compresses, ear drops, tympanostomy tubes (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture",
+    "section": "symptoms",
+    "text": "Pain, Swelling, Bruising, Deformity, Difficulty moving, Loss of function"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture",
+    "section": "treatment",
+    "text": "Immobilization, Surgery, Rehabilitation"
+  },
+  {
+    "type": "disease",
+    "name": "Round Ligament Pain",
+    "section": "symptoms",
+    "text": "Sharp or aching pain in the lower abdomen or groin"
+  },
+  {
+    "type": "disease",
+    "name": "Round Ligament Pain",
+    "section": "treatment",
+    "text": "Resting, changing positions slowly, warm compresses, gentle stretching, avoiding sudden movements"
+  },
+  {
+    "type": "disease",
+    "name": "Autism",
+    "section": "symptoms",
+    "text": "Challenges with social interaction, communication difficulties, restricted interests or repetitive behaviors"
+  },
+  {
+    "type": "disease",
+    "name": "Autism",
+    "section": "treatment",
+    "text": "Behavioral therapy, educational interventions, speech and language therapy, medications for associated symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Pleomorphic adenoma",
+    "section": "symptoms",
+    "text": "Painless lump or swelling, Facial changes"
+  },
+  {
+    "type": "disease",
+    "name": "Pleomorphic adenoma",
+    "section": "treatment",
+    "text": "Surgical excision"
+  },
+  {
+    "type": "disease",
+    "name": "Otosclerosis",
+    "section": "symptoms",
+    "text": "Hearing loss (gradual and progressive), tinnitus (ringing in the ears), dizziness or balance problems"
+  },
+  {
+    "type": "disease",
+    "name": "Otosclerosis",
+    "section": "treatment",
+    "text": "Hearing aids, surgical interventions (such as stapedectomy or stapedotomy to replace the affected bone in the middle ear), sodium fluoride therapy (to slow down the progression of the condition), communication strategies and support (such as lip-reading or sign language), regular hearing assessments"
+  },
+  {
+    "type": "disease",
+    "name": "Bulimia Nervosa",
+    "section": "symptoms",
+    "text": "Recurrent episodes of binge eating followed by purging behaviors"
+  },
+  {
+    "type": "disease",
+    "name": "Bulimia Nervosa",
+    "section": "treatment",
+    "text": "Psychotherapy (such as cognitive-behavioral therapy or dialectical behavior therapy), nutritional counseling, medications (in some cases), support groups"
+  },
+  {
+    "type": "disease",
+    "name": "Poisoning due to Analgesics",
+    "section": "symptoms",
+    "text": "Nausea, vomiting, abdominal pain, liver or kidney damage, dizziness, confusion, respiratory distress"
+  },
+  {
+    "type": "disease",
+    "name": "Poisoning due to Analgesics",
+    "section": "treatment",
+    "text": "Immediate medical attention, activated charcoal administration, supportive care, antidote (if available), treatment for complications"
+  },
+  {
+    "type": "disease",
+    "name": "Pseudohypoparathyroidism",
+    "section": "symptoms",
+    "text": "Hypocalcemia (low calcium levels), tetany (muscle spasms), short stature, rounded face"
+  },
+  {
+    "type": "disease",
+    "name": "Pseudohypoparathyroidism",
+    "section": "treatment",
+    "text": "Calcium and vitamin D supplementation, management of complications, hormone replacement therapy (if necessary)"
+  },
+  {
+    "type": "disease",
+    "name": "Dermatitis due to Sun Exposure",
+    "section": "symptoms",
+    "text": "Redness, itching, rash, blistering"
+  },
+  {
+    "type": "disease",
+    "name": "Dermatitis due to Sun Exposure",
+    "section": "treatment",
+    "text": "Topical corticosteroids, moisturizers, avoiding sun exposure"
+  },
+  {
+    "type": "disease",
+    "name": "Anemia due to Malignancy",
+    "section": "symptoms",
+    "text": "Fatigue, weakness, shortness of breath, pale skin"
+  },
+  {
+    "type": "disease",
+    "name": "Anemia due to Malignancy",
+    "section": "treatment",
+    "text": "Treating underlying malignancy, blood transfusions, medications (erythropoiesis-stimulating agents, iron supplements)"
+  },
+  {
+    "type": "disease",
+    "name": "Hyperhidrosis",
+    "section": "symptoms",
+    "text": "Excessive sweating (beyond what is necessary for temperature regulation), typically in specific areas (such as palms, soles, underarms), may interfere with daily activities"
+  },
+  {
+    "type": "disease",
+    "name": "Hyperhidrosis",
+    "section": "treatment",
+    "text": "Antiperspirants, medications (anticholinergics, beta blockers), iontophoresis, Botox injections, surgical interventions (sympathectomy, sweat gland removal)"
+  },
+  {
+    "type": "disease",
+    "name": "Otitis Media",
+    "section": "symptoms",
+    "text": "Ear pain, fever, fluid drainage from the ear"
+  },
+  {
+    "type": "disease",
+    "name": "Otitis Media",
+    "section": "treatment",
+    "text": "Antibiotics (if bacterial infection), pain relievers, observation (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Benign Kidney Cyst",
+    "section": "symptoms",
+    "text": "Abdominal or flank pain, blood in urine, frequent urination"
+  },
+  {
+    "type": "disease",
+    "name": "Benign Kidney Cyst",
+    "section": "treatment",
+    "text": "Observation, medication (if needed), surgery (in rare cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Pain after an Operation",
+    "section": "symptoms",
+    "text": "Surgical site pain, discomfort, swelling"
+  },
+  {
+    "type": "disease",
+    "name": "Pain after an Operation",
+    "section": "treatment",
+    "text": "Pain medications, ice packs, rest, wound care"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Knee Pain",
+    "section": "symptoms",
+    "text": "Persistent knee pain, stiffness, swelling, limited range of motion"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Knee Pain",
+    "section": "treatment",
+    "text": "Pain management, physical therapy, lifestyle modifications, knee braces or supports"
+  },
+  {
+    "type": "disease",
+    "name": "Volvulus",
+    "section": "symptoms",
+    "text": "Abdominal pain, nausea, vomiting, bloating, constipation, bloody stool"
+  },
+  {
+    "type": "disease",
+    "name": "Volvulus",
+    "section": "treatment",
+    "text": "Emergency surgery to untwist the affected organ and restore blood flow"
+  },
+  {
+    "type": "disease",
+    "name": "Scurvy",
+    "section": "symptoms",
+    "text": "Fatigue, swollen and bleeding gums, joint pain"
+  },
+  {
+    "type": "disease",
+    "name": "Scurvy",
+    "section": "treatment",
+    "text": "Vitamin C supplementation, dietary changes, oral hygiene maintenance"
+  },
+  {
+    "type": "disease",
+    "name": "Urinary Stones (Kidney Stones)",
+    "section": "symptoms",
+    "text": "Severe abdominal or back pain, blood in urine, frequent urination, pain during urination"
+  },
+  {
+    "type": "disease",
+    "name": "Urinary Stones (Kidney Stones)",
+    "section": "treatment",
+    "text": "Pain management, increased fluid intake, medications to help pass the stones, procedures or surgery"
+  },
+  {
+    "type": "disease",
+    "name": "Injury to the Finger",
+    "section": "symptoms",
+    "text": "Pain, swelling, bruising, deformity, restricted range of motion, difficulty gripping or using the finger"
+  },
+  {
+    "type": "disease",
+    "name": "Injury to the Finger",
+    "section": "treatment",
+    "text": "RICE method (Rest, Ice, Compression, Elevation), splinting, pain medication, physical therapy, surgery (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Retinal Detachment",
+    "section": "symptoms",
+    "text": "Floaters (spots or cobweb-like shapes in vision), flashes of light, curtain-like shadow over vision, sudden vision loss"
+  },
+  {
+    "type": "disease",
+    "name": "Retinal Detachment",
+    "section": "treatment",
+    "text": "Surgical intervention (pneumatic retinopexy, scleral buckle, vitrectomy), laser therapy, cryotherapy, gas or silicone oil injection, positioning, regular eye exams"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Rheumatic Fever",
+    "section": "symptoms",
+    "text": "Joint pain, fever, rash, heart inflammation"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Rheumatic Fever",
+    "section": "treatment",
+    "text": "Antibiotics (to treat streptococcal infections), anti-inflammatory medications, medications for heart complications"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Bronchospasm",
+    "section": "symptoms",
+    "text": "Wheezing, shortness of breath, chest tightness"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Bronchospasm",
+    "section": "treatment",
+    "text": "Bronchodilators (inhaled medications), corticosteroids, supplemental oxygen (if needed)"
+  },
+  {
+    "type": "disease",
+    "name": "Vulvodynia",
+    "section": "symptoms",
+    "text": "Persistent pain or discomfort in the vulva, burning, stinging, rawness, itching"
+  },
+  {
+    "type": "disease",
+    "name": "Vulvodynia",
+    "section": "treatment",
+    "text": "Topical medications (such as lidocaine or estrogen creams), nerve blocks, physical therapy (including pelvic floor muscle relaxation exercises), cognitive-behavioral therapy (CBT), biofeedback, medications (such as tricyclic antidepressants or anticonvulsants), vulvar care and hygiene practices, stress management techniques, alternative therapies (such as acupuncture or herbal remedies)"
+  },
+  {
+    "type": "disease",
+    "name": "Other Specified Feeding or Eating Disorder (OSFED)",
+    "section": "symptoms",
+    "text": "Symptoms that do not meet the full criteria for a specific eating disorder"
+  },
+  {
+    "type": "disease",
+    "name": "Other Specified Feeding or Eating Disorder (OSFED)",
+    "section": "treatment",
+    "text": "Treatment is based on the specific symptoms and can include a combination of psychotherapy, nutritional counseling, medical monitoring, and medications as necessary"
+  },
+  {
+    "type": "disease",
+    "name": "Anemia due to Chronic Kidney Disease",
+    "section": "symptoms",
+    "text": "Fatigue, weakness, pale skin"
+  },
+  {
+    "type": "disease",
+    "name": "Anemia due to Chronic Kidney Disease",
+    "section": "treatment",
+    "text": "Erythropoiesis-stimulating agents (ESA), iron supplementation, blood transfusions (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Pemphigus",
+    "section": "symptoms",
+    "text": "Painful blisters on the skin and mucous membranes"
+  },
+  {
+    "type": "disease",
+    "name": "Pemphigus",
+    "section": "treatment",
+    "text": "Corticosteroids, immunosuppressants, wound care"
+  },
+  {
+    "type": "disease",
+    "name": "Syphilis",
+    "section": "symptoms",
+    "text": "Primary stage: painless sores (chancre) at the site of infection, secondary stage: skin rash, fever, swollen lymph nodes, sore throat, latent stage: no symptoms, tertiary stage: severe complications affecting the heart, brain, and other organs"
+  },
+  {
+    "type": "disease",
+    "name": "Syphilis",
+    "section": "treatment",
+    "text": "Antibiotics (usually penicillin), treatment of complications, regular follow-up and testing"
+  },
+  {
+    "type": "disease",
+    "name": "Omphalitis",
+    "section": "symptoms",
+    "text": "Redness, swelling, discharge, foul odor around the umbilical area"
+  },
+  {
+    "type": "disease",
+    "name": "Omphalitis",
+    "section": "treatment",
+    "text": "Antibiotics, wound care, surgical intervention (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Idiopathic Nonmenstrual Bleeding",
+    "section": "symptoms",
+    "text": "Abnormal vaginal bleeding outside of the menstrual period, unpredictable bleeding episodes, bleeding after sexual intercourse, bleeding after menopause, spotting or light bleeding between periods, prolonged or heavy bleeding"
+  },
+  {
+    "type": "disease",
+    "name": "Idiopathic Nonmenstrual Bleeding",
+    "section": "treatment",
+    "text": "Evaluation to rule out underlying causes (such as hormonal imbalances, polyps, infections, or uterine abnormalities), hormonal therapy (such as birth control pills, hormone replacement therapy), non-hormonal medications (such as tranexamic acid), dilation and curettage (if necessary to remove excessive tissue or investigate the cause), endometrial ablation (in some cases), hysteroscopy (to examine the uterus), surgery (in rare cases), counseling or support for emotional well-being"
+  },
+  {
+    "type": "disease",
+    "name": "Myofascial Pain Syndrome",
+    "section": "symptoms",
+    "text": "Localized muscle pain, trigger points"
+  },
+  {
+    "type": "disease",
+    "name": "Myofascial Pain Syndrome",
+    "section": "treatment",
+    "text": "Physical therapy, trigger point injections, dry needling, medications (such as pain relievers, muscle relaxants), relaxation techniques, stress management, massage therapy, myofascial release, heat or cold therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Vocal cord polyp",
+    "section": "symptoms",
+    "text": "Hoarseness, Vocal Changes, Vocal Fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Vocal cord polyp",
+    "section": "treatment",
+    "text": "Voice Rest, Speech Therapy, Surgical Removal"
+  },
+  {
+    "type": "disease",
+    "name": "Rotator Cuff Injury",
+    "section": "symptoms",
+    "text": "Shoulder pain, weakness or loss of strength, limited range of motion, shoulder stiffness"
+  },
+  {
+    "type": "disease",
+    "name": "Rotator Cuff Injury",
+    "section": "treatment",
+    "text": "Non-surgical treatment options: Rest, ice or heat therapy, pain medications, physical therapy exercises, Arthroscopic surgery"
+  },
+  {
+    "type": "disease",
+    "name": "Fibromyalgia",
+    "section": "symptoms",
+    "text": "Widespread musculoskeletal pain, fatigue, sleep disturbances, cognitive difficulties (fibro fog), mood changes"
+  },
+  {
+    "type": "disease",
+    "name": "Fibromyalgia",
+    "section": "treatment",
+    "text": "Multidisciplinary approach: Medications for pain management (such as analgesics, antidepressants, and anticonvulsants), physical therapy, occupational therapy, cognitive-behavioral therapy, relaxation techniques, stress management, exercise programs"
+  },
+  {
+    "type": "disease",
+    "name": "Hypercalcemia",
+    "section": "symptoms",
+    "text": "Fatigue, nausea, excessive thirst, kidney stones"
+  },
+  {
+    "type": "disease",
+    "name": "Hypercalcemia",
+    "section": "treatment",
+    "text": "Treating underlying cause, hydration, medications"
+  },
+  {
+    "type": "disease",
+    "name": "Secondary Glaucoma",
+    "section": "symptoms",
+    "text": "Varies depending on the underlying cause"
+  },
+  {
+    "type": "disease",
+    "name": "Secondary Glaucoma",
+    "section": "treatment",
+    "text": "Treatment of the underlying condition (e.g., medication adjustments, surgery, trauma management, tumor removal, inflammation control)"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Reaction",
+    "section": "symptoms",
+    "text": "Rash, itching, swelling, fever, respiratory symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Reaction",
+    "section": "treatment",
+    "text": "Discontinuation of the offending drug, supportive care, antihistamines, corticosteroids (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Sinusitis",
+    "section": "symptoms",
+    "text": "Facial pain or pressure, nasal congestion, thick nasal discharge, post-nasal drip, cough, headache, fatigue, fever (in some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Acute Sinusitis",
+    "section": "treatment",
+    "text": "Home remedies (such as nasal saline irrigation, steam inhalation), over-the-counter pain relievers (such as acetaminophen or ibuprofen), nasal decongestants (for short-term use), nasal corticosteroids (to reduce inflammation), plenty of fluids and rest, warm compresses, avoidance of irritants (such as smoke or allergens), prescription antibiotics (if bacterial infection is suspected or confirmed), management of underlying causes (such as allergies or nasal polyps), symptom relief medications (such as cough suppressants or antihistamines)"
+  },
+  {
+    "type": "disease",
+    "name": "Polycystic Ovarian Syndrome",
+    "section": "symptoms",
+    "text": "Irregular periods, excessive hair growth, acne, weight gain, ovarian cysts"
+  },
+  {
+    "type": "disease",
+    "name": "Polycystic Ovarian Syndrome",
+    "section": "treatment",
+    "text": "Lifestyle changes (diet, exercise, weight management), hormonal contraceptives, fertility treatments (if needed)"
+  },
+  {
+    "type": "disease",
+    "name": "Complex Regional Pain Syndrome (CRPS)",
+    "section": "symptoms",
+    "text": "Severe and persistent pain, changes in skin color or temperature, swelling, stiffness"
+  },
+  {
+    "type": "disease",
+    "name": "Complex Regional Pain Syndrome (CRPS)",
+    "section": "treatment",
+    "text": "Medications (such as pain relievers, corticosteroids, anticonvulsants), physical therapy, sympathetic nerve blocks, spinal cord stimulation, occupational therapy, mirror therapy, psychotherapy, graded motor imagery, stress management techniques"
+  },
+  {
+    "type": "disease",
+    "name": "Optic Neuritis",
+    "section": "symptoms",
+    "text": "Vision loss or blurry vision, eye pain with eye movement, color vision impairment, flashing lights or floaters"
+  },
+  {
+    "type": "disease",
+    "name": "Optic Neuritis",
+    "section": "treatment",
+    "text": "High-dose intravenous corticosteroids, treatment of underlying cause, symptom management, visual rehabilitation"
+  },
+  {
+    "type": "disease",
+    "name": "Adrenal Cancer",
+    "section": "symptoms",
+    "text": "Abdominal or back pain, unexplained weight loss, hormonal imbalances"
+  },
+  {
+    "type": "disease",
+    "name": "Adrenal Cancer",
+    "section": "treatment",
+    "text": "Surgery (adrenalectomy), chemotherapy, radiation therapy, targeted therapy, hormone replacement therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Intracranial Abscess",
+    "section": "symptoms",
+    "text": "Headache, fever, neurological deficits"
+  },
+  {
+    "type": "disease",
+    "name": "Intracranial Abscess",
+    "section": "treatment",
+    "text": "Antibiotics, surgical drainage or removal of the abscess, supportive care"
+  },
+  {
+    "type": "disease",
+    "name": "Adenoid cystic carcinoma",
+    "section": "symptoms",
+    "text": "Lump, swelling, Facial numbness, tingling"
+  },
+  {
+    "type": "disease",
+    "name": "Adenoid cystic carcinoma",
+    "section": "treatment",
+    "text": "Surgery, Radiation therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Patella",
+    "section": "symptoms",
+    "text": "Severe pain, swelling, bruising, difficulty straightening or bending the knee, deformity"
+  },
+  {
+    "type": "disease",
+    "name": "Fracture of the Patella",
+    "section": "treatment",
+    "text": "Immobilization (splint, cast, or brace), pain management, physical therapy, exercises to restore mobility and strength, potential surgical intervention (in severe cases or if displacement is present)"
+  },
+  {
+    "type": "disease",
+    "name": "Restless Leg Syndrome",
+    "section": "symptoms",
+    "text": "Uncomfortable sensation in the legs, usually in the evening or at night, urge to move legs for relief"
+  },
+  {
+    "type": "disease",
+    "name": "Restless Leg Syndrome",
+    "section": "treatment",
+    "text": "Lifestyle changes (such as regular exercise, avoiding triggers like caffeine), good sleep hygiene (maintaining a regular sleep schedule), leg massages or stretching exercises, hot or cold packs, medication therapy (such as dopamine agonists, anticonvulsants, opioids), iron supplementation (if iron deficiency is present)"
+  },
+  {
+    "type": "disease",
+    "name": "Cold Sore",
+    "section": "symptoms",
+    "text": "Small, painful blisters on the lips or around the mouth"
+  },
+  {
+    "type": "disease",
+    "name": "Cold Sore",
+    "section": "treatment",
+    "text": "Antiviral medications (topical or oral), pain relievers, antiviral creams, self-care measures"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Kidney Disease",
+    "section": "symptoms",
+    "text": "Fatigue, swelling of the legs or ankles, decreased appetite, difficulty concentrating, increased urination or urine changes, blood in urine, high blood pressure"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Kidney Disease",
+    "section": "treatment",
+    "text": "Management of underlying conditions (such as diabetes or high blood pressure), lifestyle modifications (such as healthy diet, regular exercise, smoking cessation), medications (such as ACE inhibitors or diuretics), dialysis (in advanced stages), kidney transplant (in end-stage kidney disease), management of associated complications (such as anemia or bone disease), regular monitoring and follow-up with a nephrologist, education and support for self-care"
+  },
+  {
+    "type": "disease",
+    "name": "Goiter",
+    "section": "symptoms",
+    "text": "Enlarged thyroid gland in the neck, swelling or visible protrusion, difficulty swallowing or breathing"
+  },
+  {
+    "type": "disease",
+    "name": "Goiter",
+    "section": "treatment",
+    "text": "Treatment depends on the underlying cause (medication, radioactive iodine therapy, surgery)"
+  },
+  {
+    "type": "disease",
+    "name": "Type 1 Diabetes",
+    "section": "symptoms",
+    "text": "Frequent urination, Increased thirst, Weight loss"
+  },
+  {
+    "type": "disease",
+    "name": "Type 1 Diabetes",
+    "section": "treatment",
+    "text": "Insulin therapy, Blood sugar monitoring, Healthy eating, Regular exercise"
+  },
+  {
+    "type": "disease",
+    "name": "Dislocation of the Elbow",
+    "section": "symptoms",
+    "text": "Severe pain, visible deformity, swelling, inability to move the elbow, numbness or tingling in the hand/arm"
+  },
+  {
+    "type": "disease",
+    "name": "Dislocation of the Elbow",
+    "section": "treatment",
+    "text": "Closed reduction (realigning the bones without surgery), immobilization (splint or cast), physical therapy, pain management, surgical intervention (in complex or recurrent cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Rabies",
+    "section": "symptoms",
+    "text": "Flu-like symptoms (fever, headache, fatigue), anxiety, confusion, hallucinations, difficulty swallowing"
+  },
+  {
+    "type": "disease",
+    "name": "Rabies",
+    "section": "treatment",
+    "text": "Immediate medical attention (post-exposure prophylaxis), wound care, administration of rabies vaccine and immunoglobulin, supportive care, monitoring and management of symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Contact Dermatitis",
+    "section": "symptoms",
+    "text": "Itchy, red rash caused by contact with irritants or allergens"
+  },
+  {
+    "type": "disease",
+    "name": "Contact Dermatitis",
+    "section": "treatment",
+    "text": "Avoiding the trigger, corticosteroid creams or ointments, antihistamines"
+  },
+  {
+    "type": "disease",
+    "name": "Hemophilia",
+    "section": "symptoms",
+    "text": "Excessive bleeding and bruising, prolonged bleeding from wounds or after dental work or surgery, spontaneous bleeding in joints or muscles"
+  },
+  {
+    "type": "disease",
+    "name": "Hemophilia",
+    "section": "treatment",
+    "text": "Replacement therapy with clotting factor concentrates, medications to control bleeding, physical therapy, joint protection measures, genetic counseling and testing for family members"
+  },
+  {
+    "type": "disease",
+    "name": "Open Wound from Surgical Incision",
+    "section": "symptoms",
+    "text": "Redness, swelling, discharge from the wound"
+  },
+  {
+    "type": "disease",
+    "name": "Open Wound from Surgical Incision",
+    "section": "treatment",
+    "text": "Wound care (cleaning, dressing changes), antibiotics (if infection is present), surgical interventions"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Migraine",
+    "section": "symptoms",
+    "text": "Recurrent, disabling migraines"
+  },
+  {
+    "type": "disease",
+    "name": "Chronic Migraine",
+    "section": "treatment",
+    "text": "Medications (such as preventive medications, pain relievers, triptans), lifestyle modifications (such as identifying triggers, stress management, regular sleep patterns), relaxation techniques, biofeedback, cognitive-behavioral therapy, nerve blocks, Botox injections, neuromodulation devices, acupuncture"
+  },
+  {
+    "type": "disease",
+    "name": "Hyperkalemia",
+    "section": "symptoms",
+    "text": "Muscle weakness or fatigue, irregular heartbeat or palpitations, numbness or tingling, nausea or vomiting"
+  },
+  {
+    "type": "disease",
+    "name": "Hyperkalemia",
+    "section": "treatment",
+    "text": "Treatment of underlying cause, medications to reduce potassium levels, dietary modifications, dialysis (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Fibromyalgia",
+    "section": "symptoms",
+    "text": "Widespread musculoskeletal pain, fatigue, sleep disturbances"
+  },
+  {
+    "type": "disease",
+    "name": "Fibromyalgia",
+    "section": "treatment",
+    "text": "Medications (such as pain relievers, antidepressants, anticonvulsants), physical therapy, cognitive-behavioral therapy, stress management techniques, exercise, relaxation techniques, good sleep hygiene"
+  },
+  {
+    "type": "disease",
+    "name": "Bipolar Disorder",
+    "section": "symptoms",
+    "text": "Mood swings, manic episodes, depressive episodes"
+  },
+  {
+    "type": "disease",
+    "name": "Bipolar Disorder",
+    "section": "treatment",
+    "text": "Medications (mood stabilizers, antipsychotics), therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Sedatives Poisoning",
+    "section": "symptoms",
+    "text": "Drowsiness, confusion, slowed breathing"
+  },
+  {
+    "type": "disease",
+    "name": "Sedatives Poisoning",
+    "section": "treatment",
+    "text": "Immediate medical attention, supportive care, antidote administration"
+  },
+  {
+    "type": "disease",
+    "name": "Migraine",
+    "section": "symptoms",
+    "text": "headache, nausea, sensitivity to light, visual disturbances"
+  },
+  {
+    "type": "disease",
+    "name": "Migraine",
+    "section": "treatment",
+    "text": "pain relief medication, rest, cold compress"
+  },
+  {
+    "type": "disease",
+    "name": "Plantar Fasciitis",
+    "section": "symptoms",
+    "text": "Heel pain, tenderness, difficulty walking"
+  },
+  {
+    "type": "disease",
+    "name": "Plantar Fasciitis",
+    "section": "treatment",
+    "text": "Rest, stretching exercises, orthotic devices, physiotherapy"
+  },
+  {
+    "type": "disease",
+    "name": "Priapism",
+    "section": "symptoms",
+    "text": "Persistent, painful erection"
+  },
+  {
+    "type": "disease",
+    "name": "Priapism",
+    "section": "treatment",
+    "text": "Medical intervention (aspiration, medication, surgery)"
+  },
+  {
+    "type": "disease",
+    "name": "Gestational Hypertension",
+    "section": "symptoms",
+    "text": "High blood pressure without proteinuria (preeclampsia)"
+  },
+  {
+    "type": "disease",
+    "name": "Gestational Hypertension",
+    "section": "treatment",
+    "text": "Monitoring blood pressure, lifestyle modifications (such as salt restriction, regular exercise), medication (such as antihypertensive drugs) if necessary, close monitoring by healthcare provider"
+  },
+  {
+    "type": "disease",
+    "name": "Pyelonephritis",
+    "section": "symptoms",
+    "text": "Fever, chills, back or flank pain, frequent urination"
+  },
+  {
+    "type": "disease",
+    "name": "Pyelonephritis",
+    "section": "treatment",
+    "text": "Antibiotics (such as fluoroquinolones, cephalosporins, or trimethoprim-sulfamethoxazole) to target the specific bacteria causing the infection, adequate hydration, pain management (such as over-the-counter pain relievers or prescription medications), hospitalization (for severe cases or complications), urine culture to guide antibiotic therapy"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Abuse (Cocaine)",
+    "section": "symptoms",
+    "text": "Euphoria, increased energy, dilated pupils, rapid heart rate, high blood pressure, risk of heart attack or stroke"
+  },
+  {
+    "type": "disease",
+    "name": "Drug Abuse (Cocaine)",
+    "section": "treatment",
+    "text": "Medical detoxification, counseling, behavioral therapies, support groups"
+  },
+  {
+    "type": "disease",
+    "name": "Gout",
+    "section": "symptoms",
+    "text": "Intense joint pain, swelling, redness"
+  },
+  {
+    "type": "disease",
+    "name": "Gout",
+    "section": "treatment",
+    "text": "Medications (nonsteroidal anti-inflammatory drugs, colchicine), lifestyle changes"
+  },
+  {
+    "type": "disease",
+    "name": "Narcolepsy",
+    "section": "symptoms",
+    "text": "Excessive daytime sleepiness, sudden loss of muscle tone (cataplexy)"
+  },
+  {
+    "type": "disease",
+    "name": "Narcolepsy",
+    "section": "treatment",
+    "text": "Stimulant medications, antidepressants, lifestyle modifications, scheduled naps"
+  },
+  {
+    "type": "disease",
+    "name": "Submandibular stones",
+    "section": "symptoms",
+    "text": "Swelling, pain, dry mouth, bad taste"
+  },
+  {
+    "type": "disease",
+    "name": "Submandibular stones",
+    "section": "treatment",
+    "text": "Hydration,Saliva stimulation, Stone removal"
+  },
+  {
+    "type": "disease",
+    "name": "Dental Caries",
+    "section": "symptoms",
+    "text": "Toothache, tooth sensitivity, visible pits or holes in the teeth, dark spots on the teeth, bad breath"
+  },
+  {
+    "type": "disease",
+    "name": "Dental Caries",
+    "section": "treatment",
+    "text": "Dental fillings, crowns, root canal treatment, tooth extraction (in severe cases), oral hygiene practices (brushing and flossing), regular dental check-ups, fluoride treatments, dietary modifications (reducing sugary and acidic foods and drinks), dental sealants (for prevention), education on proper oral care"
+  },
+  {
+    "type": "disease",
+    "name": "Vitamin B12 Deficiency",
+    "section": "symptoms",
+    "text": "Fatigue, weakness, pale skin, shortness of breath, tingling or numbness in the hands and feet, balance problems, sore tongue"
+  },
+  {
+    "type": "disease",
+    "name": "Vitamin B12 Deficiency",
+    "section": "treatment",
+    "text": "Vitamin B12 supplementation (such as oral supplements or injections), dietary changes to include B12-rich foods (such as meat, fish, eggs, and dairy products), identification and management of underlying causes (such as pernicious anemia or malabsorption disorders), management of associated symptoms or complications (such as nerve pain or balance problems), regular monitoring of B12 levels and treatment adjustment"
+  },
+  {
+    "type": "disease",
+    "name": "Testicular Cancer",
+    "section": "symptoms",
+    "text": "Lump or swelling in the testicles, pain or discomfort, changes in testicular size or shape"
+  },
+  {
+    "type": "disease",
+    "name": "Testicular Cancer",
+    "section": "treatment",
+    "text": "Surgery (orchiectomy), chemotherapy, radiation therapy, surveillance (for some cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Peyronie Disease",
+    "section": "symptoms",
+    "text": "Curvature of the penis, pain during erections"
+  },
+  {
+    "type": "disease",
+    "name": "Peyronie Disease",
+    "section": "treatment",
+    "text": "Medications, traction therapy, surgery"
+  },
+  {
+    "type": "disease",
+    "name": "Hepatitis due to a Toxin",
+    "section": "symptoms",
+    "text": "Fatigue, jaundice, abdominal pain, nausea, vomiting"
+  },
+  {
+    "type": "disease",
+    "name": "Hepatitis due to a Toxin",
+    "section": "treatment",
+    "text": "Supportive care, removal or avoidance of the toxic substance, management of symptoms"
+  },
+  {
+    "type": "disease",
+    "name": "Foreign Body in the Throat",
+    "section": "symptoms",
+    "text": "Sensation of a foreign object stuck in the throat, difficulty swallowing or speaking"
+  },
+  {
+    "type": "disease",
+    "name": "Foreign Body in the Throat",
+    "section": "treatment",
+    "text": "Immediate medical attention, removal of the foreign body, evaluation for any complications"
+  },
+  {
+    "type": "disease",
+    "name": "Stenosis of the Tear Duct",
+    "section": "symptoms",
+    "text": "Excessive tearing, eye discharge, recurrent eye infections"
+  },
+  {
+    "type": "disease",
+    "name": "Stenosis of the Tear Duct",
+    "section": "treatment",
+    "text": "Tear duct probing, dilation, surgical correction"
+  },
+  {
+    "type": "disease",
+    "name": "Lateral Epicondylitis (Tennis Elbow)",
+    "section": "symptoms",
+    "text": "Pain or tenderness on the outer side of the elbow, weak grip strength, difficulty with forearm movements"
+  },
+  {
+    "type": "disease",
+    "name": "Lateral Epicondylitis (Tennis Elbow)",
+    "section": "treatment",
+    "text": "Rest, ice or cold therapy, compression, elbow brace or strap, pain relievers, physical therapy exercises, corticosteroid injections (in severe cases), ergonomic modifications"
+  },
+  {
+    "type": "disease",
+    "name": "Attention Deficit Hyperactivity Disorder (ADHD)",
+    "section": "symptoms",
+    "text": "Inattention, hyperactivity, impulsivity"
+  },
+  {
+    "type": "disease",
+    "name": "Attention Deficit Hyperactivity Disorder (ADHD)",
+    "section": "treatment",
+    "text": "Behavioral therapy, parent training programs, medication (such as stimulants or non-stimulants), individualized education plans (IEPs) for academic support, accommodations and modifications in school, psychoeducation, counseling"
+  },
+  {
+    "type": "disease",
+    "name": "Tuberous Sclerosis",
+    "section": "symptoms",
+    "text": "Benign tumors in various organs, seizures, developmental delays, skin abnormalities"
+  },
+  {
+    "type": "disease",
+    "name": "Tuberous Sclerosis",
+    "section": "treatment",
+    "text": "Medications (anti-seizure, behavioral, etc.), surgery (for tumor removal), therapy (physical, occupational, speech), educational interventions, support services, genetic counseling, monitoring of organ involvement"
+  },
+  {
+    "type": "disease",
+    "name": "Pulmonic Valve Disease",
+    "section": "symptoms",
+    "text": "Fatigue, shortness of breath, chest pain or discomfort, heart palpitations, fainting or lightheadedness, swollen legs or ankles"
+  },
+  {
+    "type": "disease",
+    "name": "Pulmonic Valve Disease",
+    "section": "treatment",
+    "text": "Medications (such as diuretics, beta-blockers, or calcium channel blockers), surgical interventions (such as balloon valvuloplasty or valve replacement), lifestyle modifications (such as regular exercise, heart-healthy diet, smoking cessation), regular follow-up with a cardiologist"
+  },
+  {
+    "type": "disease",
+    "name": "Pelvic Organ Prolapse",
+    "section": "symptoms",
+    "text": "Pelvic pressure or heaviness, urinary incontinence, bowel movement difficulties, discomfort or pain during intercourse"
+  },
+  {
+    "type": "disease",
+    "name": "Pelvic Organ Prolapse",
+    "section": "treatment",
+    "text": "Pelvic floor exercises, pessary use, hormone therapy, surgical repair (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Sedative, Hypnotic, or Anxiolytic Use Disorder",
+    "section": "symptoms",
+    "text": "Sedation, relaxation, reduced anxiety, drowsiness, poor coordination, memory impairment, withdrawal symptoms (such as rebound anxiety, insomnia, tremors) when attempting to stop or reduce use, continued use despite negative consequences (such as relationship problems, health risks)"
+  },
+  {
+    "type": "disease",
+    "name": "Sedative, Hypnotic, or Anxiolytic Use Disorder",
+    "section": "treatment",
+    "text": "Gradual tapering off sedatives, hypnotics, or anxiolytics under medical supervision, counseling or therapy (such as cognitive-behavioral therapy), support groups, addressing underlying psychological or social factors, lifestyle changes, addressing co-occurring mental health conditions, harm reduction strategies, ongoing monitoring and support"
+  },
+  {
+    "type": "disease",
+    "name": "Atrial Fibrillation",
+    "section": "symptoms",
+    "text": "Irregular or rapid heartbeat, palpitations, shortness of breath, chest pain or discomfort, dizziness or lightheadedness, fatigue"
+  },
+  {
+    "type": "disease",
+    "name": "Atrial Fibrillation",
+    "section": "treatment",
+    "text": "Medications (antiarrhythmics, anticoagulants), electrical cardioversion, catheter ablation, lifestyle changes"
+  },
+  {
+    "type": "disease",
+    "name": "Asthma",
+    "section": "symptoms",
+    "text": "Recurrent episodes of wheezing, shortness of breath, chest tightness, coughing, especially at night or in response to triggers such as allergens or exercise"
+  },
+  {
+    "type": "disease",
+    "name": "Asthma",
+    "section": "treatment",
+    "text": "Long-term control medications (such as inhaled corticosteroids, long-acting beta-agonists), quick-relief medications (such as short-acting beta-agonists), avoidance of triggers (such as allergens, smoke), regular monitoring of symptoms and lung function, development of an asthma action plan, proper inhaler technique, regular follow-up with a healthcare provider, emergency medications (such as oral corticosteroids) as needed"
+  },
+  {
+    "type": "disease",
+    "name": "Edward Syndrome",
+    "section": "symptoms",
+    "text": "Developmental delays, intellectual disability, distinct facial features (small jaw, low-set ears), heart defects"
+  },
+  {
+    "type": "disease",
+    "name": "Edward Syndrome",
+    "section": "treatment",
+    "text": "Supportive care, addressing associated medical issues, early intervention programs, palliative care"
+  },
+  {
+    "type": "disease",
+    "name": "West Nile Virus",
+    "section": "symptoms",
+    "text": "Fever, headache, body aches, rash"
+  },
+  {
+    "type": "disease",
+    "name": "West Nile Virus",
+    "section": "treatment",
+    "text": "Supportive care, symptom management, prevention of mosquito bites"
+  },
+  {
+    "type": "disease",
+    "name": "Obesity",
+    "section": "symptoms",
+    "text": "Excessive body weight, increased risk of chronic conditions"
+  },
+  {
+    "type": "disease",
+    "name": "Obesity",
+    "section": "treatment",
+    "text": "Antifungal medication eg  Amphotericin B, Fluconazole, supportive care"
+  },
+  {
+    "type": "disease",
+    "name": "Hypertension",
+    "section": "symptoms",
+    "text": "headache, dizziness, blurred vision"
+  },
+  {
+    "type": "disease",
+    "name": "Hypertension",
+    "section": "treatment",
+    "text": "medication, diet change, exercise"
+  },
+  {
+    "type": "disease",
+    "name": "Sialolithiasis",
+    "section": "symptoms",
+    "text": "Swelling, pain, tenderness, difficulty eating"
+  },
+  {
+    "type": "disease",
+    "name": "Sialolithiasis",
+    "section": "treatment",
+    "text": "Warm compresses, Saliva stimulation, Sialagogues, Stone removal "
+  },
+  {
+    "type": "disease",
+    "name": "Hyperopia",
+    "section": "symptoms",
+    "text": "Difficulty seeing objects up close, blurred vision when focusing on near objects"
+  },
+  {
+    "type": "disease",
+    "name": "Hyperopia",
+    "section": "treatment",
+    "text": "Eyeglasses, contact lenses, refractive surgery"
+  },
+  {
+    "type": "disease",
+    "name": "Liver Cancer",
+    "section": "symptoms",
+    "text": "Abdominal pain, jaundice (yellowing of the skin and eyes), unexplained weight loss, loss of appetite, fatigue, nausea, vomiting"
+  },
+  {
+    "type": "disease",
+    "name": "Liver Cancer",
+    "section": "treatment",
+    "text": "Surgery, Radiation therapy, Chemotherapy, Targeted therapy, Immunotherapy, Radiofrequency ablation, Transarterial chemoembolization (TACE), Selective internal radiation therapy (SIRT), Palliative care, Clinical trials"
+  },
+  {
+    "type": "disease",
+    "name": "Chalazion",
+    "section": "symptoms",
+    "text": "Painful, red lump or swelling on the eyelid, usually on the upper eyelid, sensitivity to light, blurred vision (if the chalazion affects the line of sight), mild discomfort, tenderness, localized inflammation and swelling"
+  },
+  {
+    "type": "disease",
+    "name": "Chalazion",
+    "section": "treatment",
+    "text": "Warm compresses (to help soften and promote drainage of the blocked oil gland), gentle massage of the affected area, eyelid hygiene (keeping the area clean), over-the-counter lubricating eye drops, topical antibiotic ointments (if there is a risk of infection), corticosteroid injections (for larger or persistent chalazia), surgical drainage or excision (in rare cases or if conservative treatments are ineffective)"
+  },
+  {
+    "type": "disease",
+    "name": "Hypocalcemia",
+    "section": "symptoms",
+    "text": "Numbness or tingling in fingers or around the mouth, muscle cramps"
+  },
+  {
+    "type": "disease",
+    "name": "Hypocalcemia",
+    "section": "treatment",
+    "text": "Calcium and vitamin D supplements, treating underlying causes, intravenous calcium (in severe cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Viral Warts",
+    "section": "symptoms",
+    "text": "Small, rough growths on the skin or mucous membranes, typically painless, may appear in clusters or as single lesions"
+  },
+  {
+    "type": "disease",
+    "name": "Viral Warts",
+    "section": "treatment",
+    "text": "Topical treatments (salicylic acid, cryotherapy), laser therapy, surgical removal, immune therapy (for persistent or recurrent cases)"
+  },
+  {
+    "type": "disease",
+    "name": "Spondylitis",
+    "section": "symptoms",
+    "text": "Chronic back pain and stiffness, especially in the morning or after periods of inactivity, limited range of motion in the spine, fatigue, inflammation and pain in other joints (such as hips, shoulders, knees), discomfort or pain in the neck, difficulty maintaining proper posture, tenderness or swelling in affected areas, tingling or numbness in extremities in severe cases"
+  },
+  {
+    "type": "disease",
+    "name": "Spondylitis",
+    "section": "treatment",
+    "text": "Medication (such as nonsteroidal anti-inflammatory drugs, corticosteroids, disease-modifying antirheumatic drugs), physical therapy (including stretching and strengthening exercises), heat or cold therapy, posture correction techniques, lifestyle modifications (such as regular exercise, weight management), assistive devices (such as braces or supports), surgical intervention (in rare cases), pain management techniques (such as acupuncture or transcutaneous electrical nerve stimulation)"
+  }
+]
