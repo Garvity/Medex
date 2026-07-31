@@ -1,32 +1,20 @@
 """Shared Portkey gateway headers for model and guardrail requests."""
 
-import json
-
 from core.config import Settings, get_settings
 
 
 def portkey_headers(settings: Settings | None = None) -> dict[str, str]:
-    """Return headers for a Portkey fallback route.
+    """Reference the fallback configuration saved in Portkey.
 
-    Portkey virtual keys identify the provider credentials stored in Portkey.
-    Supplying both targets in a fallback config is what enables failover; a
-    second ``x-portkey-provider-api-key`` header cannot represent a fallback.
+    The workspace blocks inline configurations, so the application must send
+    the saved ``pc-...`` slug rather than serializing fallback targets itself.
     """
     active_settings = settings or get_settings()
-    primary = active_settings.portkey_primary_virtual_key.strip()
-    fallback = (active_settings.portkey_fallback_virtual_key or "").strip()
+    config_id = (active_settings.portkey_config_id or "").strip()
 
-    if not primary:
-        raise ValueError("PORTKEY_PRIMARY_VIRTUAL_KEY must not be empty.")
+    if not config_id:
+        raise RuntimeError("PORTKEY_CONFIG_ID must be configured before model requests can run.")
+    if not config_id.startswith("pc-"):
+        raise ValueError("PORTKEY_CONFIG_ID must be a saved Portkey config slug beginning with 'pc-'.")
 
-    if not fallback or fallback == primary:
-        return {"x-portkey-provider": primary}
-
-    config = {
-        "strategy": {"mode": "fallback"},
-        "targets": [
-            {"virtual_key": primary},
-            {"virtual_key": fallback},
-        ],
-    }
-    return {"x-portkey-config": json.dumps(config, separators=(",", ":"))}
+    return {"x-portkey-config": config_id}

@@ -17,11 +17,8 @@ class Settings(BaseSettings):
     jina_embedding_model: str = "jina-embeddings-v3"
     jina_embedding_dimensions: int = 1024
     portkey_api_key: str | None = None
+    portkey_config_id: str | None = None
     groq_model: str = "llama-3.3-70b-versatile"
-    # Portkey virtual keys. Each key should map to a separately configured Groq
-    # credential in Portkey; the second target is used only when the first fails.
-    portkey_primary_virtual_key: str = "@rag"
-    portkey_fallback_virtual_key: str | None = "@brag"
     logfire_token: str | None = None
     logfire_service_name: str = "medassist-api"
     smtp_host: str = "smtp.gmail.com"

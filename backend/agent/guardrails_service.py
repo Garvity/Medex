@@ -41,7 +41,7 @@ class MedicalGuardrails:
 
                 config_path = Path(__file__).resolve().parent.parent / "rails"
                 config = RailsConfig.from_path(str(config_path))
-                if self.settings.portkey_api_key:
+                if self.settings.portkey_api_key and self.settings.portkey_config_id:
                     config.models[0]["parameters"].update(
                         {
                             "api_key": self.settings.portkey_api_key,

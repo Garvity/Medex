@@ -6,8 +6,10 @@ from agent.portkey import portkey_headers
 
 def get_llm() -> ChatOpenAI:
     settings = get_settings()
-    if not settings.portkey_api_key:
-        raise RuntimeError("PORTKEY_API_KEY must be configured before answer generation can run.")
+    if not settings.portkey_api_key or not settings.portkey_config_id:
+        raise RuntimeError(
+            "PORTKEY_API_KEY and PORTKEY_CONFIG_ID must be configured before answer generation can run."
+        )
     return ChatOpenAI(
         model=settings.groq_model,
         api_key=settings.portkey_api_key,
