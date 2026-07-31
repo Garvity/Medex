@@ -16,7 +16,10 @@ def reciprocal_rank(documents: list, expected_type: str) -> float:
 
 
 def dcg(documents: list, expected_type: str) -> float:
-    return sum((1.0 / __import__("math").log2(index + 1)) for index, document in enumerate(documents, start=1) if document.source_type == expected_type)
+    for index, document in enumerate(documents, start=1):
+        if document.source_type == expected_type:
+            return 1.0 / __import__("math").log2(index + 1)
+    return 0.0
 
 
 def evaluate(k: int = 5) -> dict[str, float]:
