@@ -1,0 +1,39 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+!**/.env.example
+backend/serviceAccountKey.json
+**/*service-account*.json
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Node and frontend build artifacts
+node_modules/
+dist/
+build/
+.vite/
+
+# Local databases, vector indexes, and logs
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
